@@ -1,4 +1,4 @@
 classes=23
-train=data/train.txt
-valid=data/valid.txt
-names=data/traffic.labels
+train=train.txt
+valid=valid.txt
+names=labels.names

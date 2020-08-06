@@ -1,0 +1,603 @@
+data/train/Dipto_01_jpg.rf.5c57e631c372e295b70a24bf894e3984.jpg
+data/train/Shykat_4_ (33)_jpg.rf.c0effb32186f55628f08bd166b3c36ab.jpg
+data/train/Shykat_03_007_jpg.rf.b4476385ad56b9a3b8fddeea3c8baf89.jpg
+data/train/Dipto_ 193_jpg.rf.4d7c46c86f1e8e69e76d1ef3fed13eda.jpg
+data/train/Dipto_ 186_jpg.rf.f31c00806e4f82bab14b487d85972b50.jpg
+data/train/Dipto_ 315_jpg.rf.715d048ef288c3d5fe6b22573ad7380b.jpg
+data/train/16_jpg.rf.a1fedbbb9c8116267cf2b5828aa5e5a1.jpg
+data/train/Dipto_170_jpg.rf.e0375060d2dbe3e470ed7d4fc83253a2.jpg
+data/train/Dipto_ 277_jpg.rf.c2974d954e07c214fbc3ebd58fdc7385.jpg
+data/train/188_jpg.rf.bb3855b0f38fbf45323b2d9b1949f5f7.jpg
+data/train/176_jpg.rf.60fe1bd09ed7f7b37725097ff6940a86.jpg
+data/train/228_jpg.rf.a723a3e4c5d327d7347714df83e1975b.jpg
+data/train/Shykat_4_ (40)_jpg.rf.e087d9ba4b72fc2fd78edadfb39b61c8.jpg
+data/train/Dipto_ 187_jpg.rf.42d40528c5fdbe5451481b6b85fa42de.jpg
+data/train/Dipto_  209_jpg.rf.5b0f5418888e02685ca4104dead81a37.jpg
+data/train/Dipto_347_JPG.rf.5a8d28abdc81d773c789b0ac46c5ddc4.jpg
+data/train/31_jpg.rf.e1e74f5a378732e72280e1c9924475e7.jpg
+data/train/Dipto_ 326_jpg.rf.72859fc8fa7dbfd698ee5382eef08455.jpg
+data/train/133_jpg.rf.a66d6daed594acf19a447412ae1c8321.jpg
+data/train/Dipto_17_jpg.rf.0e6d9496a9554501dbcf4c04d3fd0e34.jpg
+data/train/Navid_08_jpg.rf.181bf180e14ad4ac85efeaa0bcf490af.jpg
+data/train/108_jpg.rf.fd01e23f24e731ca10f582fdf532cd14.jpg
+data/train/19_jpg.rf.f6449438806293a129138aa8515a11aa.jpg
+data/train/42_jpg.rf.d6296e923e1e5d18e6c8a750dd0c1671.jpg
+data/train/172_jpg.rf.7d19f44e4149f7b87106f6125327fec3.jpg
+data/train/Dipto_ 113_jpg.rf.8adca56057700ebb127496093f495293.jpg
+data/train/62_jpg.rf.f641e281d91ebd966fdb74e10431818d.jpg
+data/train/Shykat_03_033_jpg.rf.74ba3a73c5d9714cd5762b719611b5a6.jpg
+data/train/Dipto_05_jpg.rf.aa3765f3878248bc867890f0cbec4db1.jpg
+data/train/Navid_82_jpg.rf.4f4c75708afec7a3ce1887950a3a00a4.jpg
+data/train/Asraf_14_jpg.rf.7eb1c892b901fbea75b173f84c5c063b.jpg
+data/train/84_jpg.rf.516ab528a4f969d340ab0dac256cae7b.jpg
+data/train/Dipto_ 44_jpg.rf.add73a49e808507c2fb7fb04f4f49e33.jpg
+data/train/Navid_34_jpg.rf.3216ed5f6bbfe6f47892c74c0ea8936a.jpg
+data/train/Shykat_02_052_jpg.rf.df09b84c7ed0963969ed2f50fe37da84.jpg
+data/train/Dipto_ 165_jpg.rf.cc910d2a8a1771f6b8039d6eee530aa5.jpg
+data/train/216_jpg.rf.d8ce9ae08a4ff735757ca68d11a43151.jpg
+data/train/123_jpg.rf.f348d5effdec3a606de54f40005fe967.jpg
+data/train/Dipto_ 236_jpg.rf.2ed3516def519f402f92ddbef60210eb.jpg
+data/train/Dipto_ 172_jpg.rf.ed3ff6b805c85cd2482e382445aa7f52.jpg
+data/train/Shykat_03_025_jpg.rf.37d8e8222a236183ffc1faf680547eb3.jpg
+data/train/Dipto_ 130_jpg.rf.a2ab449be597dc4cd581cff8b60717cd.jpg
+data/train/Navid_54_jpg.rf.8602fa7c754e5507f09ec99068bd89a1.jpg
+data/train/121_jpg.rf.66d69b40dfd6939598cc698dbb7455df.jpg
+data/train/230_jpg.rf.50c25c337d9b34457f453d913e326a4c.jpg
+data/train/147_jpg.rf.fddefcd8f7f92bc78202f91260433b2b.jpg
+data/train/Dipto_ 160_jpg.rf.2ed745846f2df5d99d28e38d17e0aaa8.jpg
+data/train/Shykat_02_028_jpg.rf.e9d1a90944d7a028c52849c17c5c6f8e.jpg
+data/train/Dipto_ 157_jpg.rf.f37f1e3d4e389ca6faa3dba551f94926.jpg
+data/train/189_jpg.rf.ef093d1a4094c2bdb3719b85338e2520.jpg
+data/train/134_jpg.rf.c86d738f229002b7593c3c111deacf61.jpg
+data/train/Dipto_ 126_jpg.rf.1748552d35877c2a1863ac50335b8a2d.jpg
+data/train/Dipto_ 179_jpg.rf.8e8384b9ad94300af9510b9c25d96d84.jpg
+data/train/174_jpg.rf.32628acdc11f8feee81b6f78a16ebca1.jpg
+data/train/Dipto_ 264_jpg.rf.d029f4d98d473867cbc6c21fe1c60486.jpg
+data/train/Navid_77_jpg.rf.ca2404860a70b307ee70526c08518fcc.jpg
+data/train/110_jpg.rf.e5a21f47ddd952105e899d24dfc2af1c.jpg
+data/train/223_jpg.rf.52b1e99c286bbe7a121ba3a75f47cbf9.jpg
+data/train/101_jpg.rf.70d2b204543cd0adf5abd9dbb308fdb9.jpg
+data/train/Asraf_16_jpg.rf.c9e2878cd8a03e13b5e9e54ddbda3ba9.jpg
+data/train/180_jpg.rf.679510dee10310b2f4ea2874afb7b504.jpg
+data/train/26_jpg.rf.964006b133e6e1b85f6811e074fedde0.jpg
+data/train/Dipto_ 104_jpg.rf.8cfe6931c05ebd3c027e2ba66e7208c0.jpg
+data/train/74_jpg.rf.ed7ba4f2bdc32756e6ee02c9d0c0249b.jpg
+data/train/102_jpg.rf.11edd86e156ff44bcd675ad17701828c.jpg
+data/train/Dipto_ 190_jpg.rf.44daf689ab5977a7feb3ee2df2b18c53.jpg
+data/train/Dipto_ 125_jpg.rf.780d9763b210a5ebb95fb7c0e263c016.jpg
+data/train/Dipto_ 281_jpg.rf.495be87dbb027a02e2ceadc7559b97bd.jpg
+data/train/Dipto_ 244_jpg.rf.7a1a61391ee9669bc532641abff53698.jpg
+data/train/Shykat_03_015_jpg.rf.440e599609b8788b659638d7b550c764.jpg
+data/train/87_JPG.rf.93fe3e334118c44ae7fa3d1cf02615d7.jpg
+data/train/Navid_64_jpg.rf.b0c0d7b511a6d7dcf13bbd3035f54485.jpg
+data/train/Dipto_33_jpg.rf.99d0383d34c21844dc2967ae22c248a5.jpg
+data/train/Dipto_ 175_jpg.rf.29d747fcdeff5e042379a008bcda6aca.jpg
+data/train/Asraf_46_jpg.rf.ddbdfd739bbf9d997993f07cd2fecec4.jpg
+data/train/Dipto_ 55_jpg.rf.2fd496789d0261267729ab1477e01794.jpg
+data/train/Dipto_ 137_jpg.rf.ce1ed425f26a97987a8c41bca5ff4151.jpg
+data/train/Asraf_15_jpg.rf.655abedac72dba26c7523f0ae8b69f76.jpg
+data/train/226_jpg.rf.e445705d2cffba1221ba3dda82117b75.jpg
+data/train/Shykat_4_ (29)_jpg.rf.fb58ac27bd4b0fa6bbf597593ea3c0f2.jpg
+data/train/Shykat_02_034_jpg.rf.aee97ee189fa5ac5b7633017f1a50c04.jpg
+data/train/71_jpg.rf.eb5cf286d95e5a50cf6fd0b5a928d419.jpg
+data/train/Dipto_28_jpg.rf.c55fd9014bde0e4b895996ac4f67e49a.jpg
+data/train/Navid_49_jpg.rf.29b37e0dd7f5a3b22cfc7a0861ba6746.jpg
+data/train/Dipto_ 324_jpg.rf.56c684f4631e6cad6db03fcb8a7279b4.jpg
+data/train/Navid_71_jpg.rf.e9ab4ed9805e45a890d174815ea6676a.jpg
+data/train/Dipto_ 90_jpg.rf.c56110eba530610e7d9d1e884550795b.jpg
+data/train/Shykat_02_027_jpg.rf.efbba352582ee58c343708e9947d1e83.jpg
+data/train/195_png.rf.fc4a5481072af4af8b7c8fe0df6727ce.jpg
+data/train/Dipto_19_jpg.rf.4b3b161efb8179b1f7eccdf11c67d6de.jpg
+data/train/207_jpg.rf.e0bfdf6cb2e70baa1ed35b3018b02315.jpg
+data/train/Shykat_4_ (16)_jpg.rf.4a8bf836b200e0951c22a897615d7c9f.jpg
+data/train/Navid_62_jpg.rf.e23d2d36e77b5bf60ba0b8687589d0e8.jpg
+data/train/Dipto_ 162_jpg.rf.cd7c2491b26e2d7585758e6fb38a42ab.jpg
+data/train/Dipto_29_jpg.rf.c05f24c9257e3e9a9bb355bb8f783434.jpg
+data/train/Dipto_ 46_jpg.rf.4b1d11db554eb3ad5b1abb2b68267b0d.jpg
+data/train/Dipto_  233_jpg.rf.3a8c218940633c01f1369a9436823eb2.jpg
+data/train/Shykat_03_013_jpg.rf.97cbdfd2ccf1d83d1e7d1983f8e48c8d.jpg
+data/train/Dipto_ 258_jpg.rf.73771bc3156cd49f0a59fce61eb69825.jpg
+data/train/Dipto_ 266_jpg.rf.ac49ec9ebfab6b92e2778db9f8992ef2.jpg
+data/train/76_jpg.rf.3b46e1f7bf3cf8f0a19b1e908895f897.jpg
+data/train/Dipto_ 185_jpg.rf.f3b881f92b28a57866ca2a43ea36ce3b.jpg
+data/train/Dipto_ 301_jpg.rf.4f7050ab00ae69e09d011ef489b9777a.jpg
+data/train/Dipto_ 96_jpg.rf.0611f4a6bb38fb9f708a9108b40591a5.jpg
+data/train/Shykat_02_022_jpg.rf.431ec32d5cb6f0f03b196860b56fe138.jpg
+data/train/Dipto_ 312_jpg.rf.d7741196dab8f65166250ae551d5cc36.jpg
+data/train/Dipto_ 223_jpg.rf.749f48cf9434f56beee2f032748ad640.jpg
+data/train/112_jpg.rf.9f199ebae669f892b2821dfec48977e4.jpg
+data/train/Dipto_18_jpg.rf.482579654529e03768d5b878fdabaf5e.jpg
+data/train/Dipto_234_jpg.rf.4269815bf62edb5084ff3037d70597a6.jpg
+data/train/106_jpg.rf.a5a2e64be76bd8f636c4a0a00f30bb10.jpg
+data/train/Navid_23_jpg.rf.2ae55f347228af33f4592cfe48ee04fc.jpg
+data/train/122_jpg.rf.2cbf41536bed28d6399be3d0f0773c2a.jpg
+data/train/Shykat_03_035_jpg.rf.bd6fc5e1780209383b1a5dc098489720.jpg
+data/train/17_jpg.rf.9e9945ac623dd288de618f4b60b2ba2a.jpg
+data/train/Navid_47_jpg.rf.167ba4c602a5549cf34e0b8418552832.jpg
+data/train/Dipto_  213_jpg.rf.6f37dfabb733a6f6b255ec6adcb23154.jpg
+data/train/Navid_10_jpg.rf.78a31e5f45c8ef09500fd0cdfb077c60.jpg
+data/train/Dipto_ 287_jpg.rf.5e7ee5afa5e38a86e297422b1b2ca84e.jpg
+data/train/Shykat_03_020_jpg.rf.c3334094b77299cb940196aaa48974be.jpg
+data/train/Dipto_ 180_jpg.rf.0cf8534435e8073aa411535548b0eef5.jpg
+data/train/Shykat_02_010_jpg.rf.2b192260256b06ad1e95f5758e77c22a.jpg
+data/train/Dipto_ 108_jpg.rf.b95bf189fc35b03f85612cc82c7555c4.jpg
+data/train/Shykat_02_037_jpg.rf.a640210f9032ba4623e28045a932d145.jpg
+data/train/Navid_50_jpg.rf.2be4d7607b94a8227629ee365f8fccd3.jpg
+data/train/Dipto_ 285_jpg.rf.b705d80b011298eca29b7a3dbdc2df39.jpg
+data/train/Dipto_ 262_jpg.rf.450c58ca1f707f8b878c336241e08acd.jpg
+data/train/Shykat_02_012_jpg.rf.c2a7feface603c0194a67823acbd67d5.jpg
+data/train/Dipto_ 319_jpg.rf.917e4af817a147545cb1ac5f78befc72.jpg
+data/train/186_jpg.rf.5a8f63111f2aa82da00d7c1967881acd.jpg
+data/train/213_jpg.rf.dd63d7413cf10a16740f5ff8c26548c0.jpg
+data/train/53_jpg.rf.a25e4f5b8811ff721a8665ecdf2193c4.jpg
+data/train/Shykat_02_051_jpg.rf.a12ffa3a8d9de26c126bd626025f98b8.jpg
+data/train/Dipto_ 335_jpg.rf.b1124263719d6d7759c31f7e471ebe48.jpg
+data/train/Dipto_ 255_jpg.rf.d84d2ccaa76c050df25df661a6b3ae68.jpg
+data/train/Shykat_4_ (5)_jpg.rf.a619c394c8fd6186bbe6f47c4e65f4b9.jpg
+data/train/Dipto_ 48_jpg.rf.ca1c6f0a953c7e496b29cdf8d51a507a.jpg
+data/train/Dipto_ 136_jpg.rf.a763c237a9afd7004be646b236ac7cae.jpg
+data/train/168_jpg.rf.b0a5f94a7761f6472b8ee2db3a31d7fb.jpg
+data/train/Dipto_34_jpg.rf.42ecc5ce66448a8f0183943a1027fe51.jpg
+data/train/Navid_61_jpg.rf.f1364460dbb8e6e0ca59705ea07d5760.jpg
+data/train/234_jpg.rf.6cf92f775221d8a029f809fb841cd1f4.jpg
+data/train/Dipto_  221_jpg.rf.8e7d27247abd65bbd84f74bd545f77e6.jpg
+data/train/Dipto_ 92_jpg.rf.9ee873191384fc2b540137109799876c.jpg
+data/train/Asraf_35_jpg.rf.488fff75ea29c398fc37d552ca982ec7.jpg
+data/train/Shykat_02_006_jpg.rf.179fd93ec1526463c42572a4ad81fff5.jpg
+data/train/13_jpg.rf.a363b06e092b1fa8a384968e52d9748c.jpg
+data/train/Dipto_ 328_jpg.rf.2c1e0e9084f98ea6b77bf4df83bb844b.jpg
+data/train/Shykat_4_ (1)_jpg.rf.998ed1e7361eb04499871aa3165e4110.jpg
+data/train/Shykat_03_001_jpg.rf.6a0f7b046554ad8bcbda9ddb05d46765.jpg
+data/train/Shykat_02_019_jpg.rf.1103978e73ccddff169c835cc31b2b06.jpg
+data/train/55_jpg.rf.f2f117b60bf70ddae44db811cce79cea.jpg
+data/train/Dipto_ 192_jpg.rf.ebc852e3ecc55d484f58a025e07b0e9d.jpg
+data/train/170_jpg.rf.9b80959f913034961c3c4f3f098e38e0.jpg
+data/train/Dipto_  214_jpg.rf.257e8f124bca3936d1b2999ec093655c.jpg
+data/train/Shykat_4_ (10)_jpg.rf.37bec92fa53bf5987d66cad85743692a.jpg
+data/train/217_jpg.rf.d9051a0cc976ed820c572c3d4979a892.jpg
+data/train/Navid_38_jpg.rf.c66c8d2d0f84fc31cf19c498e2dbc62e.jpg
+data/train/161_jpg.rf.6ca5bbcd90e999629809a8e94381f278.jpg
+data/train/231_jpg.rf.8fab96a2d9b4df42d20f1a7a7b5ae6d0.jpg
+data/train/Navid_30_jpg.rf.33fda6c8769619307db49659a8a4933e.jpg
+data/train/Dipto_  219_jpg.rf.036d71e3a3e5205904336ac6f5168d84.jpg
+data/train/Navid_52_jpg.rf.ce307b6c768044dfcc8425f2cf7361c9.jpg
+data/train/93_jpg.rf.00b61e4bdf8c811815b8af000ee96a92.jpg
+data/train/Navid_15_jpg.rf.303fc5172c724b6fe840f2f7364994ae.jpg
+data/train/83_jpg.rf.362ab2da09d526a3c9aa8e3829998be0.jpg
+data/train/Dipto_ 250_jpg.rf.e495fbfb320d269d4359edc5dfc27c9e.jpg
+data/train/Dipto_ 119_jpg.rf.6c9a87773877fe57128933717ff5d2df.jpg
+data/train/Dipto_24_jpg.rf.af0974ca0af8de78b520e9984670a070.jpg
+data/train/Shykat_02_050_jpg.rf.d92812664d400301596c8ba4390166b6.jpg
+data/train/Dipto_ 70_jpg.rf.153ebb478b3dfc03382eb543edf621df.jpg
+data/train/Dipto_ 199_jpg.rf.d1694de018a2f841306aa152d478b57e.jpg
+data/train/Dipto_171_jpg.rf.ddd950b1ab8498ceeb7057ab66b35948.jpg
+data/train/Dipto_ 153_jpg.rf.ccec8cef11c932f28f6350421e0ace34.jpg
+data/train/98_jpg.rf.f64aca2622253368b6f474ccbaa90e48.jpg
+data/train/237_jpg.rf.7a0af184b8707d76c9664714e8adc8a4.jpg
+data/train/Asraf_48_jpg.rf.7b230f7fa4e056e268bc0a742f8adb4b.jpg
+data/train/Dipto_27)_jpg.rf.1bbc6406ee4ad2922654d58c1f7ecf19.jpg
+data/train/Shykat_4_ (59)_jpg.rf.0225be19a284091cf35deb27340833ec.jpg
+data/train/Dipto_ 294_jpg.rf.934cccbc3d315c246815379a8ddaeeb9.jpg
+data/train/Dipto_35_jpg.rf.53ecc06a3326932764e2f5af370165f5.jpg
+data/train/Dipto_ 164_jpg.rf.d329185e41c0af5a57572f5e818e0f77.jpg
+data/train/Dipto_ 133_jpg.rf.6c3b93f27dfe44ef2b389b8ac9157a55.jpg
+data/train/Shykat_03_029_jpg.rf.8c49ec1188f53940ddb1f850ed61d826.jpg
+data/train/Dipto_ 140_jpg.rf.4976f2ae41df4434d833d30c6a39def8.jpg
+data/train/221_jpg.rf.e2ea846c7d266067309314f9d7f40836.jpg
+data/train/72_jpg.rf.f487fa03ccb6ec016c9cbdf16065ca11.jpg
+data/train/146_jpg.rf.abc19286196703a38934e531ccf680b1.jpg
+data/train/Dipto_ 174_jpg.rf.7dd64131b993c2ea6510d8c0098b4c92.jpg
+data/train/113_jpg.rf.a570be7622df7d8eb648e52e00debf31.jpg
+data/train/Asraf_05_jpg.rf.6551159368e517320d17fdfbb1b07c01.jpg
+data/train/Dipto_  228_jpg.rf.86bb579067d81b62b82164821108ab89.jpg
+data/train/Dipto_  202_jpg.rf.91b73a1beeaf3dbe2635547da16bb12e.jpg
+data/train/Dipto_ 343_jpg.rf.57aae297ce01eb051fefa753c8c826c8.jpg
+data/train/Shykat_02_043_jpg.rf.195ff6cb66649fdfba1c4a2f1849222a.jpg
+data/train/Asraf_47_jpg.rf.819e3322c0bf6ef00e3d4eeb516e60b5.jpg
+data/train/Dipto_25_jpg.rf.4eca4d5bde553af12023bd72eab2228b.jpg
+data/train/99_jpg.rf.9d7a97797b913a4f42a07e9e28696ee8.jpg
+data/train/Dipto_ 280_jpg.rf.51a7a940e6af2246fe172ee94b55d21b.jpg
+data/train/Asraf_11_jpg.rf.3990253353b1a7d6c82ced236a1b7372.jpg
+data/train/Shykat_4_ (51)_jpg.rf.e2ccc3054ef8778045723fac5480cfaf.jpg
+data/train/05_jpg.rf.740bb470915d0e89b989328c19d20266.jpg
+data/train/Asraf_40_jpg.rf.04ba791167b2e797f28a5cb68ed0fb59.jpg
+data/train/48_jpg.rf.2dacc4b3ce39a413af45af556311db2a.jpg
+data/train/Shykat_02_007_jpg.rf.120c937d996b66535965410655037ee1.jpg
+data/train/Dipto_ 103_jpg.rf.a4eee69bf95f7a59ae3ede0a2d31af57.jpg
+data/train/47_jpg.rf.9d503cb375ab9098d0db6e9b684d4be3.jpg
+data/train/Dipto_ 274_jpg.rf.ea994fe83ca628c97ef2c620ba1d0410.jpg
+data/train/Navid_81_jpg.rf.3ef6c18c7f4949e12fa777456329fffd.jpg
+data/train/104_jpg.rf.792662fce29bf8cb5707a28d8e36fa14.jpg
+data/train/Dipto_ 84_jpg.rf.79b3c4c6ddea0e29e64d11a8c885978e.jpg
+data/train/Shykat_4_ (3)_jpg.rf.6af6f47b67b9441d5d7893db48d4959e.jpg
+data/train/Shykat_02_040_jpg.rf.42dae312068980e0c3c42bf3c8d98a11.jpg
+data/train/Dipto_ 68_jpg.rf.56b5cde3e2a478be26a35c63093080bc.jpg
+data/train/Navid_65_jpg.rf.e068cb70df954a398dd8167329d72c2d.jpg
+data/train/65_jpeg.rf.c2c327aa194c74b4578529abdbc5bd9a.jpg
+data/train/177_jpg.rf.8eacfd2f313de4507caafba0bcc10e15.jpg
+data/train/82_jpg.rf.ab2c31de950e1fa96a76ee4cd8bd920c.jpg
+data/train/149_jpg.rf.2bfcb93f4915ecf77d0895e8de4235fe.jpg
+data/train/Dipto_ 59_jpg.rf.c94eff7f812f8d0ee62a4c4b9b8ec8d1.jpg
+data/train/Navid_41_jpg.rf.8c39a6961c857458b887ee2e6e510246.jpg
+data/train/Navid_45_jpg.rf.2f6b64f79be54603c0e4e9ac4a4d0608.jpg
+data/train/Dipto_ 241_jpg.rf.2c6bca4d1b59b37ede410f67d3427a46.jpg
+data/train/Shykat_02_030_jpg.rf.be2e07f82d14362fdf7f37dadb12f396.jpg
+data/train/41_jpg.rf.255516b9a535697dd08a72559ab666d6.jpg
+data/train/Navid_29_jpg.rf.efd2fc14235ec9b24fe90c7f90662fd9.jpg
+data/train/Dipto_ 268_jpg.rf.471d1e0e1400f0dea9934a208b4b94ff.jpg
+data/train/64_jpg.rf.ce9bd7c4e3019a7155421c28dc139e16.jpg
+data/train/Dipto_09_jpg.rf.55990d9489a8ddcbce0c191f3e95a9a2.jpg
+data/train/Shykat_03_026_jpg.rf.bc51bcead8b59d8f4f64551af958a474.jpg
+data/train/37_jpg.rf.abd7d48e366fb7e7242c02b0994fed46.jpg
+data/train/Shykat_02_015_jpg.rf.79fa651efbe332c63b4422439eb24a8c.jpg
+data/train/Shykat_03_022_jpg.rf.16b94f05be116c3dcd227362c660b013.jpg
+data/train/Shykat_4_ (23)_jpg.rf.2b092ffdf0101a6367b8df7eeada9adf.jpg
+data/train/132_jpg.rf.431f3cca94925d3573999551808b7fef.jpg
+data/train/02_jpg.rf.9a5f6662d0e5369d7958407220c593c7.jpg
+data/train/Dipto_ 323_jpg.rf.32083d32412b3fa04687fd971de54e22.jpg
+data/train/24_jpg.rf.9292c0c027014ca1cafe341a39058fae.jpg
+data/train/Navid_05_jpg.rf.4fec0c4027a14cfdaf83354a851ffe22.jpg
+data/train/Shykat_02_045_jpg.rf.23c39ff44295f400bd6b410148be568d.jpg
+data/train/Dipto_  230_jpg.rf.8fd7f0f2990330bbf4e84e34dc41f7ba.jpg
+data/train/Shykat_03_017_jpg.rf.4965d4251409e086671eb3dc981dd6bc.jpg
+data/train/Shykat_4_ (55)_jpg.rf.7b2fd602aa9341f62beb912c63155837.jpg
+data/train/144_jpg.rf.affbfe27674c19b2bb356ef0c649f27d.jpg
+data/train/Dipto_ 260_jpg.rf.032460424064bac3c04d804fcf14f80f.jpg
+data/train/Shykat_4_ (30)_jpg.rf.95fcbd62ebb1ed6302f57d2cf76910da.jpg
+data/train/Shykat_4_ (7)_jpg.rf.8705abb12b560f77af7a46e7cd0cf508.jpg
+data/train/Dipto_349_JPG.rf.f36b8076d40fba1d7b631e84c0f1a362.jpg
+data/train/Dipto_ 340_jpg.rf.67fe6d803b459932087e261d2df68cf7.jpg
+data/train/Dipto_ 148_jpg.rf.0b0770653fea02908ecd1331cdf443e3.jpg
+data/train/Asraf_31_jpg.rf.81f62d3d52a4b0ca26a4dc831b54d9f6.jpg
+data/train/Dipto_26_jpg.rf.82951c666dbf41317ce5aa05d6a26a46.jpg
+data/train/Dipto_  217_jpg.rf.500c39e6b40965cb0df20d5bd60d7f6c.jpg
+data/train/Dipto_ 139_jpg.rf.9f0ea88b98f874fa7fec96d029dafb8c.jpg
+data/train/124_jpg.rf.85cdd0eabf8b9f78ca9c9223371dd609.jpg
+data/train/32_jpg.rf.2c94dd28425970896414bb9b860220ad.jpg
+data/train/Dipto_ 155_jpg.rf.d61a071966eacff5aceaa197eeffbd0d.jpg
+data/train/Navid_44_jpg.rf.758c2e98834c7212f74e542ca4d05038.jpg
+data/train/34_jpg.rf.211257981465cfad647038af9068a654.jpg
+data/train/Asraf_26_jpg.rf.82aad92acf784622ab7a73489a80f385.jpg
+data/train/Asraf_06_jpg.rf.9354a9b92d85702d749f8844ba1e5293.jpg
+data/train/Dipto_ 138_jpg.rf.8a8c1de494cc40bacf864e72651dcd25.jpg
+data/train/Dipto_ 284_jpg.rf.fae0845caa00c3d9ac6cadeb7a3eb94e.jpg
+data/train/Dipto_38_jpg.rf.8dca3d366afc743c2a32730aa3c98859.jpg
+data/train/200_png.rf.4f864f1d5d6aae80c49a78dc710f2378.jpg
+data/train/Dipto_21_jpg.rf.abebea5acc765ce2e4ae5792de21621a.jpg
+data/train/164_jpg.rf.30f7ca9345f41ed0d795ea04efd7fbe8.jpg
+data/train/Dipto_ 163_jpg.rf.481f72ff2b6cea27e71372b2228c0269.jpg
+data/train/Navid_58_jpg.rf.378aea14b0cdde57c5587f44ebbb2516.jpg
+data/train/Dipto_ 72_jpg.rf.9f3e96d287dddc699fc4536b60295224.jpg
+data/train/130_jpg.rf.b572d695ea1793b856e69eb6c4a6374f.jpg
+data/train/Shykat_4_ (9)_jpg.rf.97441b3869be813a63922cf489222d6a.jpg
+data/train/Navid_48_jpg.rf.44851d434b062769217abd9a8969a149.jpg
+data/train/Shykat_03_003_jpg.rf.b744059a65dfcf6a08851727662130a3.jpg
+data/train/Dipto_ 152_jpg.rf.2c55c0652fbd46396151e2bda23c6257.jpg
+data/train/07_jpg.rf.1bb0e835e105702cbce04aa0e9f88a9b.jpg
+data/train/Asraf_36_jpg.rf.d0b44d0a2ab087780bd60e068ca88ad2.jpg
+data/train/148_jpg.rf.412e27a7a31b51a6872c1d5f2e6356be.jpg
+data/train/Dipto_ 77_jpg.rf.95ae2c44ecd3611eec9ecf441f195232.jpg
+data/train/136_jpg.rf.b212605ada91042449d3b98ccf65c416.jpg
+data/train/Shykat_4_ (2)_jpg.rf.aaa8019de3a1d442a906cd4312aac12f.jpg
+data/train/114_jpg.rf.f2dc111a8c8c7fd7b6358d6a655271ba.jpg
+data/train/Shykat_4_ (13)_jpg.rf.f935767d49e422bf37790f8bd22d17eb.jpg
+data/train/224_jpg.rf.61561de3561c99981dce285729557059.jpg
+data/train/Navid_69_jpg.rf.7482ede3f6c1589034aec3d467d11786.jpg
+data/train/01_jpg.rf.eb80401c4b3194a2a8b89d9fafcfbbdd.jpg
+data/train/Dipto_ 159_jpg.rf.3791ee867c6b37b95083c13d9ac3358e.jpg
+data/train/Dipto_ 121_jpg.rf.b61d4bc94a598f67044930d3e988da50.jpg
+data/train/Dipto_ 283_jpg.rf.d8ddc310ba1cb1ebc6369e86be0dfc0d.jpg
+data/train/Dipto_ 134_jpg.rf.512f086ef0e6ab998f8b206ba6a1dd1d.jpg
+data/train/Navid_01_jpg.rf.df871716db919d727b80fdc79a124acf.jpg
+data/train/111_jpg.rf.66e34ae787b6dfcd3756dd0cfcea09a7.jpg
+data/train/Shykat_02_042_jpg.rf.a65a2259acd8c3b9c45a7239fa7ab66c.jpg
+data/train/89_jpg.rf.bd1de5fde4247975a8f0b4e878027f3d.jpg
+data/train/Shykat_4_ (32)_jpg.rf.c24f22ddb645f893ca45673dddcfc9a3.jpg
+data/train/Dipto_ 254_jpg.rf.09dde83f6568275e1e5b4597a27586f4.jpg
+data/train/Shykat_4_ (61)_jpg.rf.76f84d4f677f6df38652fe65a324c66f.jpg
+data/train/Shykat_4_ (4)_jpg.rf.cf8e45043e111c25af321524245aa606.jpg
+data/train/Dipto_ 282_jpg.rf.105906d23f5d5da7a31a3254689ba42f.jpg
+data/train/Dipto_ 45_jpg.rf.9f3b809ac624b0e4fa3a532d1efa84e7.jpg
+data/train/Dipto_ 261_jpg.rf.e7e87cb0cf0bacf88d49522b7d3794de.jpg
+data/train/Dipto_  225_jpg.rf.5d9b9ad8fc61626091e95854e9dd1a7a.jpg
+data/train/Dipto_ 252_jpg.rf.9cde0717b18ae38a1b76716c84cc111d.jpg
+data/train/232_jpg.rf.d278dad5c74a3cd3ae734d280485c1ed.jpg
+data/train/Navid_78_jpg.rf.b162d5b40cf16a6853b0bff16a056235.jpg
+data/train/Dipto_ 178_jpg.rf.e2a41e9dbb3f9ff3c8c3815ffef379d5.jpg
+data/train/Dipto_ 195_jpg.rf.d0fe933d0d3ff01fc396cbff6c9120f0.jpg
+data/train/Dipto_04_jpg.rf.8a745285453ac05678e86f4920aded99.jpg
+data/train/Navid_40_jpg.rf.8ac8704c0bb03069e11ef8943fbc2f36.jpg
+data/train/Dipto_  207_jpg.rf.c90f5da1a09c197b9d659927ece2f42b.jpg
+data/train/Shykat_4_ (39)_jpg.rf.389ee47e62b9f7bffdf51d00cfac977e.jpg
+data/train/08_jpg.rf.7eb42f9c2cc6f38dbbc13379acd36090.jpg
+data/train/Dipto_ 161_jpg.rf.d5f9505fd6838b8f76f53b27216ea7ad.jpg
+data/train/Asraf_29_jpg.rf.ff5afd3fd11f4b38a86699a0c1d746f3.jpg
+data/train/167_jpg.rf.19dc838686c567b039df0e7252eb31f2.jpg
+data/train/Navid_31_jpg.rf.5ad32f720146b7308a1dd79c29af3199.jpg
+data/train/Dipto_ 308_jpg.rf.6afffed440941ba768a21953ce0c5616.jpg
+data/train/Dipto_ 54_jpg.rf.0c4524335c5979a35d4a560152de9634.jpg
+data/train/Asraf_23_jpg.rf.d6b049fb707013cd6cdf776a7d3df52a.jpg
+data/train/Dipto_ 246_jpg.rf.97360caabdd9e0db0c1479a0aa6b9f47.jpg
+data/train/219_jpg.rf.0f9930255e60e292603d99f1ab4f6b03.jpg
+data/train/Shykat_02_044_jpg.rf.2ca11731babb4c0cba3e491d00c3b34f.jpg
+data/train/Shykat_02_020_jpg.rf.b86210a6212faa7e67a7576c6f5cd366.jpg
+data/train/Asraf_27_jpg.rf.779ed754b8ef2f23571dec0cde05c5b4.jpg
+data/train/Dipto_ 314_jpg.rf.53490b1014213625329cd198c4b9aedb.jpg
+data/train/Dipto_ 299_jpg.rf.3e0621d6e7cbe5f92845d29100e3a602.jpg
+data/train/Dipto_ 201_jpg.rf.4c6e297e82c7625cd722b608238e86e5.jpg
+data/train/Dipto_02_jpg.rf.aad23498f96707f13f148b8330a746c2.jpg
+data/train/Shykat_02_008_jpg.rf.c2d7bf1bcf166cfe9d3be27d54bebc02.jpg
+data/train/Shykat_03_030_jpg.rf.5ccc6145e3fbc464e37990d25e2c4868.jpg
+data/train/Dipto_ 154_jpg.rf.21c03a9fec71c939f42d9133c411e45c.jpg
+data/train/Navid_09_jpg.rf.455ad3c97d95e0c3796fd6a504c7a080.jpg
+data/train/220_jpg.rf.45e17264a816ce228310e43e3b2c91e8.jpg
+data/train/Shykat_4_ (50)_jpg.rf.a3476a8b510260e87d83f22fca0ff851.jpg
+data/train/Shykat_02_026_jpg.rf.23eec08c8ca1bb0d720491503d801e52.jpg
+data/train/Dipto_ 311_jpg.rf.0f82e2c71f6a4900caf3fa479a6ef2b1.jpg
+data/train/Dipto_ 257_jpg.rf.4355c97f1a6d17ea7a09479e1dfa6a0d.jpg
+data/train/Dipto_ 168_jpg.rf.e1d022bdeb8b1a7778a4b33f7a598297.jpg
+data/train/Shykat_4_ (47)_jpg.rf.f7e5dfd8090f8736c07d33edc3c6e5da.jpg
+data/train/Dipto_345_JPG.rf.fc9b3b09314b9a3239739dd9c2fae4d3.jpg
+data/train/Dipto_ 337_jpg.rf.fd69ae72ecf77c5e3aa893b035ade469.jpg
+data/train/140_jpg.rf.1c5b54518fa1a6f0c1486699332e24d6.jpg
+data/train/160_jpg.rf.4ac31e23328a5fcca48ca7e010e06dd8.jpg
+data/train/69_jpg.rf.02ed841740dce4b2201120248a324acc.jpg
+data/train/40_jpg.rf.3a578f93f4775da108c7e44bf9b48b5f.jpg
+data/train/154_jpg.rf.a1713db0c2cfb9f5a6dcbaa37d836a39.jpg
+data/train/Shykat_4_ (26)_jpg.rf.df387f25581e1874aded5f34508e725c.jpg
+data/train/Dipto_ 291_jpg.rf.43363c881798cb66bde97234de9e20c8.jpg
+data/train/Shykat_03_031_jpg.rf.5fcea6b9c345674c641d8315067579e6.jpg
+data/train/Dipto_07_jpg.rf.d55a1d0cc081a498ad862e6a3d74b37e.jpg
+data/train/Asraf_13_jpg.rf.d7fc29567f344543d45235c51f8991bd.jpg
+data/train/156_jpg.rf.ad74eabc80481d1d8cd5b7d15f3326dc.jpg
+data/train/Dipto_ 275_jpg.rf.d8a6382a270a2c6e05dd03b5ade8288c.jpg
+data/train/Shykat_02_009_jpg.rf.8c1608e23e76d0440b7020c4ea25d421.jpg
+data/train/Navid_80_jpg.rf.130e8d80fb72ae452c906af5ce023338.jpg
+data/train/Dipto_ 243_jpg.rf.436c5488a8a3bcf5831e90b0a52f9f08.jpg
+data/train/52_jpg.rf.821cafddcb862ecf43eb36c2dce552d4.jpg
+data/train/28_jpg.rf.b54091eca1f70c70f4e650cb09e2905b.jpg
+data/train/Dipto_ 191_jpg.rf.ddf4e659227f468d351781f49b338283.jpg
+data/train/39_jpg.rf.bad534f4aff291b37d6dfc95b0abad72.jpg
+data/train/Dipto_ 189_jpg.rf.15cb7e6708ad915608da44443aa1ce8d.jpg
+data/train/Dipto_  210_jpg.rf.219a81d8864cb3cbc0d9fd6f73a8dd3a.jpg
+data/train/Dipto_ 61_jpg.rf.f2e273098d5cf50bcb9b99b2ab594584.jpg
+data/train/Dipto_ 309_jpg.rf.23160bc269734ec08283ab62608292b8.jpg
+data/train/129_jpg.rf.1a21fe5862b632fafeb28c2bf73b921b.jpg
+data/train/Dipto_ 94_jpg.rf.e995b5399969cf07c14a648706636a7c.jpg
+data/train/Dipto_ 289_jpg.rf.375268eccceb2dae9e9017b875e8a9f0.jpg
+data/train/Shykat_4_ (20)_jpg.rf.d9014bc28406264bceab9e8f1362a2f9.jpg
+data/train/210_jpg.rf.6efddfe28938a1306f765012e80a9547.jpg
+data/train/Dipto_ 101_jpg.rf.23d84872a72d03de8b3b0eb756f68b43.jpg
+data/train/Dipto_ 248_jpg.rf.3683be6f542d5cc60f801645ba84252a.jpg
+data/train/38_jpg.rf.79d5ad93dcda38870ba1c3906c96c748.jpg
+data/train/Dipto_ 79_jpg.rf.18eb1c89805c91a98a18b4432ffdd499.jpg
+data/train/Dipto_  208_jpg.rf.19ded6d5a52ce7bd86bad5d5aaadf3d1.jpg
+data/train/Navid_39_jpg.rf.4aec63647f6389c3091c709395b4a3ff.jpg
+data/train/59_jpg.rf.ebd145e964f6b0988b569a923b7ee253.jpg
+data/train/Asraf_33_jpg.rf.43963cfdd2e2f6612d1255479e245bef.jpg
+data/train/Dipto_ 147_jpg.rf.03b75f231d346d0c03f5605a41dc2f0f.jpg
+data/train/Shykat_02_004_jpg.rf.b4bcbd3251198774f377b9563d5974f0.jpg
+data/train/222_jpg.rf.ada80928f09b625cfb97219581b2fd63.jpg
+data/train/Dipto_ 313_jpg.rf.2a84de2b79e6479efcf3c67ee7e8f500.jpg
+data/train/Shykat_4_ (52)_jpg.rf.56c96a51ca807fca973b1c82c8f1b07d.jpg
+data/train/06_jpeg.rf.2575e72198df466adcb992ed07e7d252.jpg
+data/train/Asraf_39_jpg.rf.104cd18b5762a30f0fb1545a11dadece.jpg
+data/train/14_jpg.rf.bd593da5d37f49c071fee9cd4bea66e9.jpg
+data/train/Navid_22_jpg.rf.92819414470a3e798793e0a7818b5ce2.jpg
+data/train/204_png.rf.45e9640b4e16c173e2f48e8256870417.jpg
+data/train/Dipto_ 327_jpg.rf.8a8327b1e8a6818228325bec9d9a513b.jpg
+data/train/Dipto_ 71_jpg.rf.9c2ba7fbac743a9e3765b21536ae8ada.jpg
+data/train/Dipto_  226_jpg.rf.025e4c4679ef0fb7de85aa490d3ea702.jpg
+data/train/Dipto_ 60_jpg.rf.2bc6e2611d555f3b6a38f7a0895d90ed.jpg
+data/train/Dipto_ 120_jpg.rf.c1f6aae6a9a8e4b00839ff5070764dc9.jpg
+data/train/173_jpg.rf.b8ae397c99f86a7e3a38476ea2b742b1.jpg
+data/train/Shykat_03_010_jpg.rf.dc7ebac7161165e29c01b8a03ddb2813.jpg
+data/train/Shykat_02_039_jpg.rf.379a771c0e52bfd472bf2214ff4a6beb.jpg
+data/train/194_png.rf.fe81e6d9cf454c5587d98c7984c7d69d.jpg
+data/train/Dipto_ 247_jpg.rf.63094de8670e63652ac3bc6adb90caec.jpg
+data/train/57_jpg.rf.6695e1618ed16d47fe95b65d09943317.jpg
+data/train/193_png.rf.cf8e43a4e6edc965462ba2534d6fca22.jpg
+data/train/Navid_24_jpg.rf.25366f12e9d0da9a99f7dda0d0486205.jpg
+data/train/Shykat_02_033_jpg.rf.8d8639f80400cd768be0cfdfb08c573c.jpg
+data/train/181_jpg.rf.6ce0ad08eb4ec009761c1102e497256c.jpg
+data/train/Dipto_ 322_jpg.rf.080d2ae2a9cd326df20b5972c788a364.jpg
+data/train/Shykat_4_ (45)_jpg.rf.e9c3a6425afc9b2fb5d68bb03228607e.jpg
+data/train/Dipto_ 102_jpg.rf.870cee61996c1caf061424f81c5ee6fd.jpg
+data/train/Dipto_ 97_jpg.rf.4aecf03e4da961abe5160c62ef1c96cb.jpg
+data/train/Dipto_ 41_jpg.rf.384235286e905f79e936db1f6baf13fd.jpg
+data/train/58_jpg.rf.1062f216865c91d771a27fd599f1fd23.jpg
+data/train/190_jpg.rf.87ab7248f159026c4457bce0e55e6628.jpg
+data/train/Dipto_ 42_jpg.rf.d6617c90734ae7dc502661a565e3b088.jpg
+data/train/151_jpg.rf.907a294481b6374a3d7bd731fb4b3b49.jpg
+data/train/201_png.rf.8d292340c0c1b2eb2f32352ab2d24a35.jpg
+data/train/Dipto_ 259_jpg.rf.088b5844ade3ae7c81476f4c29ad32d3.jpg
+data/train/Asraf_38_jpg.rf.9d61b1b47467e928f3678129ca0c8ff0.jpg
+data/train/Dipto_ 305_jpg.rf.884469987e3fc3e5e1de1e201111f9e2.jpg
+data/train/153_jpg.rf.8d126d383c8d5a32a40c7016a691d3c8.jpg
+data/train/Dipto_08_jpg.rf.2368a5c20eb2887403302bd08c1057ce.jpg
+data/train/Dipto_ 47_jpg.rf.afbdba4da2168520b04268a7a756d778.jpg
+data/train/Asraf_09_jpg.rf.562ac6eaab50f4f75f7b162b1a66f311.jpg
+data/train/171_jpg.rf.9462cfee54e352841cfa5f6f1a2309f5.jpg
+data/train/Dipto_ 99_jpg.rf.b5c38d03e2027d3aed93049caff4e650.jpg
+data/train/Dipto_ 62_jpg.rf.a8e4b215b7a34e03449bdeda9d7f543e.jpg
+data/train/Dipto_ 176_jpg.rf.6ab98204581732dcf4050e1bfba98f85.jpg
+data/train/Shykat_02_018_jpg.rf.f3ff545de50e8dd32f35cd612c4864d2.jpg
+data/train/Shykat_02_031_jpg.rf.4637cfa512a0f399c648c1d21266bd25.jpg
+data/train/199_png.rf.9b6cbc3da2ab0abfc6240ab7617a8c48.jpg
+data/train/09_jpg.rf.fb80bc2809be84e9b19b9ced410e4367.jpg
+data/train/Dipto_ 249_jpg.rf.77f85f9536af47eac5899d1dd6e3fda1.jpg
+data/train/Dipto_ 288_jpg.rf.cf1abad7c446b5836198ff6719e5aec0.jpg
+data/train/Navid_26_jpg.rf.dd9e2ceb92184e6802b1082530180474.jpg
+data/train/51_jpg.rf.6cbd38f0139e0a809ecc37b48167fc2b.jpg
+data/train/Dipto_ 144_jpg.rf.2cda0504fc2d9307fd0e548111445477.jpg
+data/train/Shykat_03_011_jpg.rf.de45a8f917f5af52e5ff0ef416d80af6.jpg
+data/train/182_jpg.rf.9b390087c9926adceb59b20e021ad3ee.jpg
+data/train/Navid_76_jpg.rf.c1007fe39e40a3cf7a0634ac843c4892.jpg
+data/train/Shykat_03_024_jpg.rf.d119321a97d74b67f41777638bb720c2.jpg
+data/train/85_jpg.rf.f26e9f602bcb34dbe10eb21ae71e7db4.jpg
+data/train/236_jpg.rf.8337c2fb4dfe5dc0bed3d2acda0ca507.jpg
+data/train/Asraf_02_jpg.rf.e1c2a524f0d9ef0387da6a6ace9be8a1.jpg
+data/train/115_jpg.rf.5c29d86038b1528a776ed344f93d02d4.jpg
+data/train/Dipto_ 293_jpg.rf.62aa1b452b6ae61127f90395378bf1bc.jpg
+data/train/Asraf_41_jpg.rf.f557d307581f31b8a52fb5e0fca81728.jpg
+data/train/Asraf_22_jpg.rf.229cbc3743fe83b0a5bb0b540a32af22.jpg
+data/train/Navid_04_jpg.rf.6363f58cd77974bf2270da70b8bcf8f3.jpg
+data/train/54_jpg.rf.d3f0d16a1534c7f271beba5e888b4a78.jpg
+data/train/Dipto_290_jpg.rf.2039161fce8718bcb8ce517bc8798dd5.jpg
+data/train/152_jpg.rf.af1e01db3a8f984aceff7dded1db40d5.jpg
+data/train/Dipto_ 263_jpg.rf.720b0b836ad510f5f5004b2878ee5c86.jpg
+data/train/Dipto_ 167_jpg.rf.efbaed9264f03bceaacf77ed9d43fbf9.jpg
+data/train/Dipto_  216_jpg.rf.09aa806b123b8506d1ff70b13514739c.jpg
+data/train/225_jpg.rf.540b5c4b08c2b863094ee7bba766b18a.jpg
+data/train/66_jpg.rf.4b80e90049178cb12e52324bc57fb894.jpg
+data/train/63_jpg.rf.2778562e9ff964c5a332704edbd17d05.jpg
+data/train/Shykat_4_ (28)_jpg.rf.28addd5ed08a0b8fbe42ff6d7fa9b79c.jpg
+data/train/Dipto_ 295_jpg.rf.17e525e4a87c5a1576d78837aba95f77.jpg
+data/train/03_jpg.rf.d828f47615fb8365ad10339d96efc4ca.jpg
+data/train/197_png.rf.0a6ea076b0a96d3d73af2d4bbf4332b3.jpg
+data/train/Dipto_183_jpg.rf.5755746a9f5fc7287b9056390b29f33c.jpg
+data/train/27_jpg.rf.8fdfccdceec9231fca7ffa0c56c67960.jpg
+data/train/Asraf_17_jpg.rf.839945dc5caa4d13497e3e890ed66be5.jpg
+data/train/Shykat_4_ (34)_jpg.rf.f389401cdb3c9ee94d19356bcc93bf01.jpg
+data/train/Shykat_03_014_jpg.rf.4d1c09ade4b890029d65d46ac2f98851.jpg
+data/train/Dipto_03_jpg.rf.0a5afb77cc823b6357a128dcddb3897c.jpg
+data/train/43_jpg.rf.ce80767df2eaa9abaab2d3cbf5f72748.jpg
+data/train/Shykat_02_017_jpg.rf.410ebc3fb35cae6f4c8b19cd2cd671b3.jpg
+data/train/Dipto_ 145_jpg.rf.9e4c50857e4e3e2bc724dd2163872910.jpg
+data/train/49_jpg.rf.3368f7b74eee07ce71f563e8264215eb.jpg
+data/train/Dipto_ 194_jpg.rf.bb12f44be83785728a37e2d8fa4c7aee.jpg
+data/train/Dipto_ 52_jpg.rf.8797d9f16b1385b99ba9edee56623aeb.jpg
+data/train/35_jpg.rf.0a365e2272e79f06b75aa326af2e43ca.jpg
+data/train/Navid_12_jpg.rf.c1ef5d04051ba6e75f0ca1ac99a674fb.jpg
+data/train/Asraf_10_jpg.rf.7925aff3a3c6b20af7351aeb5a10ffbb.jpg
+data/train/163_jpg.rf.e3112119452e31268de01cc63945ad49.jpg
+data/train/125_jpg.rf.7d06699ba7068350553c25c1cc1dba26.jpg
+data/train/Navid_68_jpg.rf.fcb768cd7e09268e0e5ede1960407fb2.jpg
+data/train/Asraf_44_jpg.rf.d24e81511f122f737582902b3c98eee6.jpg
+data/train/18_jpg.rf.e505d34935ddeb8416c14380be6f17bd.jpg
+data/train/Dipto_ 296_jpg.rf.befaef14e0ada365b09cea474ae31e0a.jpg
+data/train/Navid_14_jpg.rf.0a83613a207802e865ec1bbf8f2902f2.jpg
+data/train/Dipto_ 83_jpg.rf.395516e07a27252b863ee7eeb384df33.jpg
+data/train/15_jpg.rf.29fd43a66facbaa94a8efb9cd8c4d221.jpg
+data/train/126_jpg.rf.a608f35197332fb32de4ff95984ffa62.jpg
+data/train/Shykat_02_035_jpg.rf.e42bb12711f278f5a19b7a02dadc104d.jpg
+data/train/Dipto_ 333_jpg.rf.57dfe3df160d706f110c726acd13fc4c.jpg
+data/train/117_jpg.rf.e0702327e2e8f49ee12fd9d9c746591e.jpg
+data/train/Dipto_ 198_jpg.rf.5ae8c9e550533ec48644bd28db81d1b1.jpg
+data/train/Shykat_03_019_jpg.rf.a292ebe0e4fb913dd07ff8aed734d856.jpg
+data/train/Shykat_4_ (58)_jpg.rf.9c533a4a63a58b97f562e6f8cf304280.jpg
+data/train/60_jpg.rf.d621b2fb56b706b45026b68f132de9c5.jpg
+data/train/45_jpg.rf.19a4c74b908d1cce68c35df80bc3d7bd.jpg
+data/train/Dipto_ 273_jpg.rf.86ad629b1709f27dabdc1f50fcd8483d.jpg
+data/train/Dipto_ 80_jpg.rf.d9f8b6b1dba0831ee194af161ca9f7bb.jpg
+data/train/Shykat_4_ (31)_jpg.rf.9ad3f91fc68dc505103bc1640a7bcdb8.jpg
+data/train/Dipto_ 238_jpg.rf.092c06e81426843e502e534395dab591.jpg
+data/train/10_jpg.rf.6b6d405d94b736e3e3e50777cf5e2ea9.jpg
+data/train/Dipto_ 81_jpg.rf.79d940ef58f096e2bb0752fa4401b4bf.jpg
+data/train/Shykat_4_ (60)_jpg.rf.945f13e4542e6338472d7d6140df8c4d.jpg
+data/train/100_jpg.rf.2d72294bd49ac97bb4db227298511d14.jpg
+data/train/145_jpg.rf.4c73be6b6bb8a7a8a32c6e24539a6f5d.jpg
+data/train/175_jpg.rf.588868fd0b1928565a9531d28ef60d28.jpg
+data/train/Shykat_03_028_jpg.rf.2166ee61fbe7d088d76c98726a229b0b.jpg
+data/train/Dipto_ 331_jpg.rf.176dc16cb58250d6798a2de4abdeef75.jpg
+data/train/Shykat_4_ (21)_jpg.rf.521a5e6587752655cf805ec46f3cce62.jpg
+data/train/Dipto_ 298_jpg.rf.28dbf26d6a972f1e23fe704f09d524de.jpg
+data/train/Shykat_02_024_jpg.rf.dda11beb108d1d3b956fb1ee0bceac86.jpg
+data/train/Dipto_ 318_jpg.rf.98c0a958c04bc63c30cf26cf1dc1ef14.jpg
+data/train/Asraf_21_jpg.rf.c6f4627ca6e0ad239150584c39bd3750.jpg
+data/train/68_jpg.rf.83657bfd5422ea5a248005b3573022e5.jpg
+data/train/215_jpg.rf.1b4833cd34b1cf4d7a7e3372f1ccd0cc.jpg
+data/train/Dipto_ 272_jpg.rf.4005362c121d470b06e050b2b623d50a.jpg
+data/train/Dipto_ 188_jpg.rf.693a308b7292ca7fb5d800187c792737.jpg
+data/train/Dipto_ 237_jpg.rf.fda10a66909c427985e55d062c550e72.jpg
+data/train/Dipto_ 150_jpg.rf.9bb63531b91bbb6770afe63b3fecc2da.jpg
+data/train/Navid_66_jpg.rf.20509d46254d0fa1ba6cdcd125c07074.jpg
+data/train/Navid_56_jpg.rf.b4393051958d62ca7780e0c7407a3792.jpg
+data/train/Shykat_4_ (8)_jpg.rf.87f9a98fd3cd01520fff449587933fdb.jpg
+data/train/Dipto_ 235_jpg.rf.ededc6d8e03a2303ccb60a3c3fc56888.jpg
+data/train/Navid_35_jpg.rf.880085632c936b38f43f6adefde298d4.jpg
+data/train/Dipto_ 56_jpg.rf.fef1dc26d361594a044c5e3fd0a3a2fe.jpg
+data/train/Dipto_ 303_jpg.rf.fe1ef7d012c0f061534d331057864966.jpg
+data/train/Dipto_ 129_jpg.rf.6ffcf45cc870f92f71e081118896777d.jpg
+data/train/127_jpg.rf.e0cb5e7fdb3e96824094b40450eb2875.jpg
+data/train/Navid_42_jpg.rf.884da59d8e64f20af139e77e19b3da8b.jpg
+data/train/Dipto_ 86_jpg.rf.05fd03c8c9d2bd3288392b7d10d43504.jpg
+data/train/Dipto_10_jpg.rf.a1d91ccb82b111aeab03f29e59b4adbe.jpg
+data/train/Dipto_22_jpg.rf.cbda637157636f3f86c546ebe6ac4da1.jpg
+data/train/Navid_21_jpg.rf.cc4e68818c8208f2bcda31904bd8fc26.jpg
+data/train/Dipto_ 64_jpg.rf.e40015b3018211d10e5fe0a37856e368.jpg
+data/train/Asraf_43_jpg.rf.ad1bfc6fda9765392f0be2e49ecc133c.jpg
+data/train/Navid_13_jpg.rf.902bf04fd75a32bf5ea1ae4adac6745f.jpg
+data/train/Shykat_02_041_jpg.rf.3efe5951f9f55cdecc3b7b0ea3e2d291.jpg
+data/train/Asraf_07_jpg.rf.0feea00e0e98aa5830b48aea98aad6d6.jpg
+data/train/Navid_70_jpg.rf.e20a61f842fdc45c704464db23995c7d.jpg
+data/train/Dipto_346_JPG.rf.d82bede29c7858e64adb22f8a7d94156.jpg
+data/train/Shykat_02_046_jpg.rf.d53356c73b94e89fbfbde509ddadbd35.jpg
+data/train/Dipto_ 87_jpg.rf.9b61b55d59ca51d54a80908c650d6285.jpg
+data/train/Dipto_ 338_jpg.rf.dde6c9d6b1c055abdc96d6abaf5c09f9.jpg
+data/train/203_png.rf.ce591f66bc4c1f07170ad532940b2357.jpg
+data/train/Dipto_31_jpg.rf.406384e1dec0af4963662eba2260c7ac.jpg
+data/train/Navid_59_jpg.rf.d48e99afa90119edc704010fa6e8dc4f.jpg
+data/train/187_jpg.rf.2b17a4ae9cc160af6c476629d6e67055.jpg
+data/train/Asraf_04_jpg.rf.a8e690b385f853d78475dbe6d59204bc.jpg
+data/train/Dipto_ 39_jpg.rf.e9796a954e2db2ef717000389f3b21ab.jpg
+data/train/Shykat_02_016_jpg.rf.a6a5dc6e7cc7f883b193ca5e1d864265.jpg
+data/train/Dipto_ 278_jpg.rf.c6cadfab2ef60b771437791f000c5089.jpg
+data/train/105_jpg.rf.9f1f16df003bcfb9a14854ec28b99292.jpg
+data/train/Dipto_ 123_jpg.rf.84a264bfe0a77c0a5402e98455ccd609.jpg
+data/train/Shykat_4_ (49)_jpg.rf.e6465b0371c3fdd4836e12af10c979a8.jpg
+data/train/Shykat_4_ (54)_jpg.rf.99a2a71439bff6f8a82bc736c84b49e5.jpg
+data/train/Dipto_ 88_jpg.rf.f7a64986b40d094ad9844b1ec238083e.jpg
+data/train/Shykat_02_032_jpg.rf.69ee2c91e8533d9934ffac9787b96cde.jpg
+data/train/Shykat_02_001_jpg.rf.07a232d828beaa5a5e07a869d5bb0259.jpg
+data/train/Dipto_ 51_jpg.rf.9c06b29f3cfb32faa81b1a1caee32860.jpg
+data/train/Shykat_02_005_jpg.rf.c2f8515e40b30b042d06c494ed3430c4.jpg
+data/train/Dipto_  211_jpg.rf.7a02f8326d274568964e6229fd43bfbe.jpg
+data/train/Dipto_ 131_jpg.rf.c38bae68c3782b35b4cdf2b285f2b93e.jpg
+data/train/77_jpg.rf.06f33d11d2dafeda8743877b0b3f0f16.jpg
+data/train/Shykat_02_053_jpg.rf.32f7e3cce8808491b8bd7bf08f517b40.jpg
+data/train/Shykat_4_ (25)_jpg.rf.90b3e24c4708ffc465c32b472755f3ae.jpg
+data/train/Dipto_ 89_jpg.rf.996be9f4163a8fe4c61c981cf69eb035.jpg
+data/train/Navid_27_jpg.rf.8c9928f71e9aa655d365cbab83547b2b.jpg
+data/train/Dipto_ 339_jpg.rf.36549aedb51ffcd72d0e329e947b511c.jpg
+data/train/Shykat_02_036_jpg.rf.9367eb565508287d5b2fddfb16169179.jpg
+data/train/191_jpg.rf.682a96f7d20cafc3ec468e28df20f515.jpg
+data/train/Dipto_ 184_jpg.rf.b99eb51d5641e86ff40ec8dc47ac6fba.jpg
+data/train/Dipto_ 300_jpg.rf.afbda37753383229be32b743ddd5cd73.jpg
+data/train/46_jpg.rf.dc9485973b6da87819b07314d5eff92d.jpg
+data/train/Navid_16_jpg.rf.766820bad17306dd572184d02bbd5838.jpg
+data/train/70_jpg.rf.b0c9cc4d99dbbf316a4065b51a5717d2.jpg
+data/train/Dipto_ 196_jpg.rf.3c1243cadb784e4ef4a9e813a93b07dc.jpg
+data/train/Navid_72_jpg.rf.ead8fbcb4664bbc87ba105fdaf052fcf.jpg
+data/train/Shykat_03_027_jpg.rf.52295e2039075de3f818ebe4b923d081.jpg
+data/train/Dipto_ 336_jpg.rf.fa3bbcc7faf414c188afd618388fd77b.jpg
+data/train/Asraf_25_jpg.rf.a1f72092ea34403937beee0d97c660a3.jpg
+data/train/Dipto_ 269_jpg.rf.9c8dbe90bbe263512c89dc3eab320db7.jpg
+data/train/Dipto_ 265_jpg.rf.250eeeb11ff380375cb8028e06019c94.jpg
+data/train/196_png.rf.3f6e376585bbce8b340d731073371721.jpg
+data/train/Dipto_  232_jpg.rf.7492020035cf4230d88085e195104015.jpg
+data/train/Dipto_ 306_jpg.rf.1b15072621165422e90b8d31eea599fa.jpg
+data/train/Dipto_ 93_jpg.rf.4c029e19e919ff55c4126c1dd500fecc.jpg
+data/train/Dipto_ 239_jpg.rf.4c14a6b9bc3d6bb5f8648cb574c2ce1c.jpg
+data/train/139_jpg.rf.3a70a6046ae8fbd299d008a0234b4e70.jpg
+data/train/Dipto_ 124_jpg.rf.fe606ce5ca47bf8f6b90aea768ec1f35.jpg
+data/train/Dipto_ 158_jpg.rf.aac85b3bb250fea5cd153ee6f920fb13.jpg
+data/train/Shykat_4_ (14)_jpg.rf.73d48ad296688d01e9d3b5f5504e40d9.jpg
+data/train/Dipto_ 142_jpg.rf.cb5736a76ffb4727bbd8105856430dc9.jpg
+data/train/11_jpg.rf.64d4cdd03681bd9be27d32a09df3e686.jpg
+data/train/Shykat_03_008_jpg.rf.b3b4e1206352753a6a308e2a3e82ad8b.jpg
+data/train/118_jpg.rf.f12d9ff707b9b64961b849de44d3e1ad.jpg
+data/train/Dipto_ 181_jpg.rf.b4d919ba54414ecf95066287c0346f3c.jpg
+data/train/208_jpg.rf.3a40d9b746fdce50991810ee2b531d7f.jpg
+data/train/169_jpg.rf.cdd05dcd7c4040e9fd4eed57ef709704.jpg
+data/train/Asraf_03_jpg.rf.4054c31d3aec71c682d2cd0bdbcec6a5.jpg
+data/train/Dipto_11_jpg.rf.9430380f873c60d39b1bac0aa57b0ba8.jpg
+data/train/Navid_43_jpg.rf.371b5edd0101d40b47d512615db92912.jpg
+data/train/78_jpg.rf.29f308ecc9751e12bade77c530370afc.jpg
+data/train/Navid_73_jpg.rf.de833d4d3e6dce1c0f40d85a549b6073.jpg
+data/train/120_jpg.rf.7013b7c52a28b50073d7d0cd4710a00b.jpg
+data/train/Dipto_  203_jpg.rf.f8bb40cba301f49c4042cd42e6b038cf.jpg
+data/train/Shykat_4_ (24)_jpg.rf.788a3a60bb72d4d19db3508522c0739f.jpg
+data/train/44_jpg.rf.2ca7cb6cd5c9e72d27c711c8c14091cc.jpg
+data/train/Navid_46_jpg.rf.9300d4f0c193790b0a43f31d9a2697bd.jpg
+data/train/Asraf_01_jpg.rf.dd076a7d7e07da444e81bdeec12e54bc.jpg
