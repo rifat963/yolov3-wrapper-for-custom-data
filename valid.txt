@@ -1,173 +1,199 @@
-data/valid/211_jpg.rf.c73af2a5bf51c65753149da17ff8ea41.jpg
-data/valid/21_jpg.rf.258b58a6c1e193c4d352ebd84191ccfd.jpg
-data/valid/238_jpg.rf.bf7076e01247ed6b991a2a073e82c5a0.jpg
-data/valid/Dipto_ 118_jpg.rf.b264e30018dc30943ea3033190e77f2b.jpg
-data/valid/Dipto_36_jpg.rf.198bd2b520b9f6240080ebfdd8356ce8.jpg
-data/valid/Dipto_ 321_jpg.rf.028be618fd814ceddeede033e772edae.jpg
-data/valid/Shykat_02_038_jpg.rf.9c6d17d6be19d16da39858c32600618c.jpg
-data/valid/25_jpg.rf.0854f52c5d119c6f3a8f6740e357d847.jpg
-data/valid/Dipto_ 146_jpg.rf.2005dcd74fcc9ab7326a1065fa6b0a78.jpg
-data/valid/138_jpg.rf.5935be68413d6270af8853e3e9e97e8b.jpg
-data/valid/Shykat_02_023_jpg.rf.4dc131c9bd07be75a02245893c6a6b27.jpg
-data/valid/30_jpg.rf.81780f79f33410620dbb7154775bea52.jpg
-data/valid/165_jpg.rf.8463b739317fb3ed366f264b347260a2.jpg
-data/valid/116_jpg.rf.644777b1b31556e41efafe3d65a9408e.jpg
-data/valid/183_jpg.rf.c43f5ec2213a0010632b6468d3ed2cd7.jpg
-data/valid/Shykat_02_049_jpg.rf.71fb01712353c2fd804e4938600bc5b1.jpg
-data/valid/Shykat_4_ (57)_jpg.rf.5299a1209799c27c8c929fe8632ae72e.jpg
-data/valid/Dipto_ 200_jpg.rf.884f7591fc44d983ce530d6d8fa86398.jpg
-data/valid/Navid_18_jpg.rf.c947d8f19af5b099651d290fee3c2119.jpg
-data/valid/12_jpg.rf.7d929f9028bef533b4b2e0a72e301002.jpg
-data/valid/Dipto_348_JPG.rf.57167b2fffb40f2b5b1066a3e2b96c6e.jpg
-data/valid/Dipto_37_jpg.rf.a70b039dee79dab2f9338bc2f46661c0.jpg
-data/valid/Dipto_350_JPG.rf.e9eddfffa33a40299b01efaf5b34b592.jpg
-data/valid/Dipto_ 256_jpg.rf.904a41a5d10c4796f2dfcc85a721afd1.jpg
-data/valid/Dipto_ 292_jpg.rf.a98b88b8be707e845f5af2f72c4cc253.jpg
-data/valid/Asraf_37_jpg.rf.8b223f291a90990bfb1c433938d5c2e1.jpg
-data/valid/Shykat_02_014_jpg.rf.b665be5af2d9594080013274ef937fc3.jpg
-data/valid/79_jpg.rf.ea7d0a8691d9aabf54f2cf5319945384.jpg
-data/valid/Shykat_4_ (18)_jpg.rf.0ee93f7dfccfc00dc7c36e18928a2b26.jpg
-data/valid/Shykat_03_012_jpg.rf.18247a4851ba1356ee849fbc41772784.jpg
-data/valid/Dipto_ 169_jpg.rf.f6d5d2ff3b15e56a4279aec02578f989.jpg
-data/valid/Shykat_4_ (36)_jpg.rf.469508f9e4c522486e27912bfb067ea1.jpg
-data/valid/162_jpg.rf.7eba78ead77bc9eb440e573aa230b0ba.jpg
-data/valid/Dipto_ 98_jpg.rf.c2680a09bd2cfca3097b8c660a751c77.jpg
-data/valid/Dipto_ 302_jpg.rf.0b27ebc920827abb54d34eb8a545cf5a.jpg
-data/valid/Shykat_03_006_jpg.rf.933f492e24077f5f73a21c417131e16f.jpg
-data/valid/Navid_11_jpg.rf.450be48fa30f4ef9ca70f86fd9089e8d.jpg
-data/valid/128_jpg.rf.d0148573208a49933a83c4c872c0bd9e.jpg
-data/valid/04_jpg.rf.8bf03ba33ad35f2e8d9139cdd3aff2e9.jpg
-data/valid/Asraf_12_jpg.rf.633614b16f8ff8161da6c83d82d4cf80.jpg
-data/valid/Shykat_03_032_jpg.rf.2247c4fd9afe322efb90728fb7884df1.jpg
-data/valid/56_jpg.rf.a91c0d48263ed8d382f6a933d02e4294.jpg
-data/valid/143_jpg.rf.9c227122082971476383a1953bf9811c.jpg
-data/valid/Dipto_ 58_jpg.rf.dc7808345fdf0eee9a1d7f409d310925.jpg
-data/valid/88_JPG.rf.9cecf1ff95f36c121baa404894e43373.jpg
-data/valid/Asraf_30_jpg.rf.0ad4d3f6ca14e45de9eb7fe0c1bdfcae.jpg
-data/valid/Dipto_  215_jpg.rf.81bdd1e44c19b1bb59366164d8ac80ff.jpg
-data/valid/Dipto_ 67_jpg.rf.4445d3ebb12096ee8df249c00a67a6e0.jpg
-data/valid/Navid_51_jpg.rf.2a795c47cc87e34b55b5629772495fca.jpg
-data/valid/166_jpg.rf.d563b078c5f6d7c1b56eaa27c7e53ae9.jpg
-data/valid/Dipto_ 53_jpg.rf.863159e7b8a62d746882b503c60c59e8.jpg
-data/valid/198_png.rf.624188754fcbbd9d5b678be5397399f6.jpg
-data/valid/Shykat_02_003_jpg.rf.c1cfda9588631144e2ab0a9b66b24137.jpg
-data/valid/Asraf_24_jpg.rf.8e0d37d743ed15872182eba29b828c38.jpg
-data/valid/Shykat_4_ (44)_jpg.rf.d257532526a90ade2b55621612cb35d1.jpg
-data/valid/Shykat_03_016_jpg.rf.82f91c245ef0a1a10dc43eea17fe3878.jpg
-data/valid/95_jpg.rf.4efa4eb5ff299c4a6aec4bc5d83d238e.jpg
-data/valid/Dipto_ 91_jpg.rf.af47825157df6ac6568923237474cb60.jpg
-data/valid/Dipto_14_jpg.rf.f0ab0a8fcad2e9ffa11d73d9297b6c5e.jpg
-data/valid/Asraf_19_jpg.rf.a0cb9ad9a09e6d0f2534a6b545f7d597.jpg
-data/valid/50_jpg.rf.3f2136227e667d3138dfa47d1becbb32.jpg
-data/valid/Dipto_ 106_jpg.rf.62602b61858e87c9e1e196b959687f80.jpg
-data/valid/Dipto_ 57_jpg.rf.6884e1be9bf4bbefb7a47d26ddd7bba3.jpg
-data/valid/Dipto_344_JPG.rf.c9afb65b399dee14434827890b1f0682.jpg
-data/valid/Dipto_ 267_jpg.rf.bbcd386c8b36547617467b09c3789897.jpg
-data/valid/Dipto_ 105_jpg.rf.42f762847d847c24a93c139b934f3587.jpg
-data/valid/Dipto_ 304_jpg.rf.7caad6fbed0f6926318133a62b078bea.jpg
-data/valid/Shykat_03_005_jpg.rf.d150b106971d423345ac5b43884ad65c.jpg
-data/valid/Dipto_  212_jpg.rf.7e54384a8fedce95649f264add39e0df.jpg
-data/valid/Shykat_02_029_jpg.rf.e20426195eaa3866c10eb3b76a973c35.jpg
-data/valid/Dipto_ 112_jpg.rf.c88cd591df405b4e58015140932472e7.jpg
-data/valid/227_jpg.rf.744f8075919592313c673fe7a9c1e831.jpg
-data/valid/Shykat_4_ (35)_jpg.rf.b139b57747eda116f69666668eb577dc.jpg
-data/valid/103_jpg.rf.b7b87eceb01eefba11d0fe10c81510ce.jpg
-data/valid/Shykat_03_009_jpg.rf.6f98690e03a7656fcecb28d721c92add.jpg
-data/valid/Navid_63_jpg.rf.1626ce20a9ed7309bcea942949bbc9d7.jpg
-data/valid/Asraf_28_jpg.rf.888caaf1cb0a8cc3eb04ec04691d8894.jpg
-data/valid/86_JPG.rf.97d523f2024362f6eafecf2328c915c0.jpg
-data/valid/Dipto_ 325_jpg.rf.e03ce28b5d67605f4a5cb7a806df88a0.jpg
-data/valid/20_jpg.rf.874ea03192ee1597bdab331e8a216bac.jpg
-data/valid/Dipto_  206_jpg.rf.e04e7ca6d6e0b62ab2d47503dc0e8bca.jpg
-data/valid/131_jpg.rf.e30414f23ec86a19d4eddb062d1119e9.jpg
-data/valid/Dipto_ 49_jpg.rf.ee4957c8dc29bec0c85f1c688f5c8e00.jpg
-data/valid/Dipto_ 151_jpg.rf.b3875656a2b9e0a4d981aea6e2858c3c.jpg
-data/valid/Dipto_ 95_jpg.rf.2918f002062fc5141cb1666137e12066.jpg
-data/valid/Dipto_ 271_jpg.rf.68d2776cc04d185dc1291135e55fe7ea.jpg
-data/valid/179_jpg.rf.35e68af5b0aa6f40b72a5ee397f66ccf.jpg
-data/valid/158_jpg.rf.da8e60f5e03eb6b289aea9fe01de9f2f.jpg
-data/valid/Navid_28_jpg.rf.0c9f447bc966b21bea09ecc22a2855a5.jpg
-data/valid/Shykat_03_021_jpg.rf.76976b16a74bfd8a1552376257bfb391.jpg
-data/valid/109_jpg.rf.25060cb736f67e2597df8ea7b17ae2ff.jpg
-data/valid/Shykat_03_004_jpg.rf.458f0a089cc0249cd40c775b52a6a006.jpg
-data/valid/Dipto_ 320_jpg.rf.f3f248f0fd008fb038f8e2354653fa24.jpg
-data/valid/Dipto_ 276_jpg.rf.d6cd3a171e2f35a3c8c983af88e0291e.jpg
-data/valid/61_jpg.rf.85bdae039331690c3f95431aeb6f8c2f.jpg
-data/valid/233_jpg.rf.e1e885b4276a2c619b7e15cc9732121d.jpg
-data/valid/Dipto_ 135_jpg.rf.b22ef437db50407bbd546bb79e6d1afd.jpg
-data/valid/184_jpg.rf.57622885782f4a37922ab4505775919f.jpg
-data/valid/Dipto_13_jpg.rf.4518404cd9fd7db4010622c99fac95fd.jpg
-data/valid/Asraf_18_jpg.rf.d8e6c185e53f618291cf4767aa0028de.jpg
-data/valid/Dipto_ 149_jpg.rf.980c4c0935ca2ea9c45588e1f6d9e20f.jpg
-data/valid/Dipto_ 307_jpg.rf.15107b89d83d7d74f6dc65d73b40716e.jpg
-data/valid/81_jpg.rf.59c82bb9feec50d529a3ddc70f2ef9b1.jpg
-data/valid/205_png.rf.83e9e47f00fd0696d28be0628d457cd3.jpg
-data/valid/Navid_37_jpg.rf.df3138305ba5528620b7ea9703a5edfd.jpg
-data/valid/Dipto_  205_jpg.rf.88fef705eccf724d07966f40867d64c7.jpg
-data/valid/Dipto_ 242_jpg.rf.de542032384088eab48efd8b326421e6.jpg
-data/valid/94_jpg.rf.f9619168ec66d5f2efdd9d004a522592.jpg
-data/valid/Navid_55_jpg.rf.7926159473ce59a16a3db977073fcf71.jpg
-data/valid/Dipto_ 110_jpg.rf.49b1342db483607a9f9ee67b91b94040.jpg
-data/valid/229_jpg.rf.a228066fb71055b56a27e4273d91f9c1.jpg
-data/valid/Dipto_06_jpg.rf.e5fe38cd4710a291bb75147496ae9c5e.jpg
-data/valid/75_jpg.rf.af648098dd87be9ea55d3a6422c1ed69.jpg
-data/valid/Dipto_ 286_jpg.rf.e4591d7cb4fb68d8c9b8204b68a48a4d.jpg
-data/valid/Dipto_ 114_jpg.rf.919e4891c31e98f1614a0b664cc962c2.jpg
-data/valid/29_jpg.rf.12717a8582e3b862b2ebce73e45d2147.jpg
-data/valid/185_jpg.rf.8c61b1a4f836b9f7f018ccbd455339cf.jpg
-data/valid/Dipto_ 50_jpg.rf.e24b926ef8f3b71ba6244b358d0351c2.jpg
-data/valid/137_jpg.rf.e0c241ae192f391a95b9b540887db944.jpg
-data/valid/Dipto_12_jpg.rf.bfa17e3179a4844058300ce9a77a467d.jpg
-data/valid/Dipto_30_jpg.rf.0a41ca76a5cef512d5b4856b1b31e184.jpg
-data/valid/Dipto_ 66_jpg.rf.786dbdeb69f0dc6ee45da1b0a3b6de44.jpg
-data/valid/Dipto_ 117_jpg.rf.ea1697d266c1a31b418a8b8d6320435d.jpg
-data/valid/Shykat_4_ (27)_jpg.rf.358483493cad81a3400ae6baec25b0a3.jpg
-data/valid/Dipto_16_jpg.rf.8f598e4a09434da3d3bca099cfabfad3.jpg
-data/valid/Dipto_ 334_jpg.rf.3083d4532ad2d515b2f7efa2831a31aa.jpg
-data/valid/Dipto_ 316_jpg.rf.597b7be0727234497ab17ac7a47cd276.jpg
-data/valid/Shykat_4_ (11)_jpg.rf.f80c59e0e07bd2d5c3414df13abaf1f7.jpg
-data/valid/Dipto_ 245_jpg.rf.5c59d9d33dfe40507b7b327e79de68bb.jpg
-data/valid/Shykat_02_002_jpg.rf.90482126e07288377370ffd504366ebb.jpg
-data/valid/Navid_57_jpg.rf.fefd6d98ae14c73c182c90cf5ec3031c.jpg
-data/valid/Dipto_ 74_jpg.rf.5f3f5e7122f4e087a2af2e052bd79524.jpg
-data/valid/Dipto_ 78_jpg.rf.fa09e7072205fef29b7a56105dbc653d.jpg
-data/valid/Dipto_ 330_JPG.rf.70c2be4b90d5711c707d21e51acee3c1.jpg
-data/valid/Dipto_ 253_jpg.rf.c118e8b6b344d3490b8f3fde3fecd7ea.jpg
-data/valid/Dipto_ 317_jpg.rf.1e6f2b1d33f107eb88a4446622f1c6a1.jpg
-data/valid/218_jpg.rf.7a09fc8d4c398e0e5b535b556272c84a.jpg
-data/valid/Navid_32_jpg.rf.5ba91f20c67864392e2faa1ce9b1abe2.jpg
-data/valid/212_jpg.rf.caf59784d9651b113e16e50369a8fa7e.jpg
-data/valid/Shykat_4_ (43)_jpg.rf.3d96b770966beaef13c2a9aef1eb8b3b.jpg
-data/valid/Shykat_4_ (53)_jpg.rf.a68e86d5ce4e5334077641b8ba3fff9f.jpg
-data/valid/Dipto_ 279_jpg.rf.da5f4115eceebe22c4ed631758da003b.jpg
-data/valid/Navid_02_jpg.rf.8a971db849b47b18a84a9047fb9b9776.jpg
-data/valid/Dipto_ 115_jpg.rf.160018d1f2e9b98b159723f8e418b2b1.jpg
-data/valid/Navid_75_jpg.rf.74323ef22a29ef3c39890fa7bc48bb56.jpg
-data/valid/Navid_79_jpg.rf.01b92790884a66afe96b43ebbbba8c16.jpg
-data/valid/157_jpg.rf.1994053bb258743d22fa335599901a74.jpg
-data/valid/96_jpg.rf.976b79223001ec4c600885c6c3f3ccf0.jpg
-data/valid/159_jpg.rf.cf81c57c83e38ce89f8bc747f3400cd0.jpg
-data/valid/73_jpg.rf.98e1ad044ba44c6c437d8cdfe8447c05.jpg
-data/valid/33_jpg.rf.370b85208816d7d657addb48e929783e.jpg
-data/valid/Navid_83_jpg.rf.da4eeb3a464e60a4fe3fb946c9792d84.jpg
-data/valid/Dipto_ 270_jpg.rf.3438983ce3061dbad92da7373015e8d3.jpg
-data/valid/Navid_20_jpg.rf.b00eb1d5cdcc39899ea8659a117b4086.jpg
-data/valid/Dipto_ 73_jpg.rf.cbc50eafde9e449764410f3e637467bf.jpg
-data/valid/Dipto_ 63_jpg.rf.d661b9a44bce0c060278ed50f5d92355.jpg
-data/valid/Dipto_20_jpg.rf.9aa7005b0e2ef2c7f9e2b213a5aa5fdf.jpg
-data/valid/Dipto_ 107_jpg.rf.8884767ba6ce07ed25cbee43aa708234.jpg
-data/valid/Shykat_02_047_jpg.rf.59e1a849df4a917f9637db1e4a58c952.jpg
-data/valid/Dipto_  229_jpg.rf.bc360bf5e26848c382788afc85e89181.jpg
-data/valid/Dipto_ 141_jpg.rf.6854e923ec420eb0bc3886b016a844b4.jpg
-data/valid/Shykat_02_048_jpg.rf.a603901ff293839e30d12b54bf2da814.jpg
-data/valid/Shykat_4_ (17)_jpg.rf.f42019cc58835a9486adc51de69d3c1e.jpg
-data/valid/135_jpg.rf.33017e2b111d47994098cdadfdf7b8ab.jpg
-data/valid/Dipto_ 100_jpg.rf.f246bf6dbcbc363acd6c2dbfb0f806d6.jpg
-data/valid/Dipto_ 182_jpg.rf.cfc68e37763b3a2fe107a5954fbaa4cf.jpg
-data/valid/Shykat_02_025_jpg.rf.3f7f8c57da6b625b7eb5c56575e9e3d9.jpg
-data/valid/Dipto_32_jpg.rf.8ae6e876d8fecce55a9fc5a055f2c93c.jpg
-data/valid/Navid_84_jpg.rf.7eb929c4c900595fe1bea7cb01171194.jpg
-data/valid/Dipto_ 310_jpg.rf.827e6cc0e7477389dfa45f6662398681.jpg
-data/valid/Asraf_42_jpg.rf.4724958c0caff99906ccf416d73259cc.jpg
-data/valid/Shykat_4_ (22)_jpg.rf.3fc7869f1a77196e071b1387d059942e.jpg
-data/valid/36_jpg.rf.800c90e2d40b038c692a34b2c792ad13.jpg
+data/valid/Numan_(309)_JPG.rf.545840f5176ab19b361e810dd7422552.jpg
+data/valid/Pias (318)_jpg.rf.04d31dd280131c4545c2c78a08ef7cae.jpg
+data/valid/Pias (342)_jpg.rf.04fcc9c6c88d149f8ad0a845910ab1ef.jpg
+data/valid/Numan_(148)_jpg.rf.87e2b3553d78d1a6a8ffaa53168add49.jpg
+data/valid/Pias (86)_jpg.rf.bca1aa3a43d2016dccbfcb1dec06653c.jpg
+data/valid/Pias (394)_jpg.rf.e5c126ae361d4fe5330b9dda1dd65258.jpg
+data/valid/Pias (397)_jpg.rf.c18956b47c79d6386275d840a124e3bc.jpg
+data/valid/Pias (215)_jpg.rf.760c47d653146ab7fbc3b49d7a4784ab.jpg
+data/valid/Pias (416)_jpg.rf.f529ab9b4d9d8f3db81fff6133d44138.jpg
+data/valid/Numan_(241)_jpg.rf.6097d1d55a7ba22766f43cc1d2aed444.jpg
+data/valid/Pias (27)_jpg.rf.0776d5dd87a1aa3de098e16842a679d8.jpg
+data/valid/Pias (467)_jpg.rf.fdcaf95a555509718dedbc6a5ac47a64.jpg
+data/valid/Pias (340)_jpg.rf.a3d876c08907046df727c78b66d54eed.jpg
+data/valid/Pias (58)_jpg.rf.0b8bd823eaec00e50de64ef30ac46acc.jpg
+data/valid/Numan_(145)_jpg.rf.cfdea4da663c6a021715f0b44c8bdfcf.jpg
+data/valid/Numan_(336)_jpg.rf.4b7f53d153b476c517faa85c69bc8e82.jpg
+data/valid/Pias (16)_jpg.rf.1329810b44f994555d7e3a6e7dbba746.jpg
+data/valid/Pias (239)_jpg.rf.21404ece258bb2c8090590f56476553c.jpg
+data/valid/Numan_(301)_JPG.rf.c1f8e220a5db3a10a826ab196c2ac96f.jpg
+data/valid/Pias (320)_jpg.rf.1f2331314e7c4464aa0a6813584e797f.jpg
+data/valid/Pias (212)_jpg.rf.4690f4187237462d8b30e96967a3947f.jpg
+data/valid/Numan_(187)_jpg.rf.8f084a5dd2762389a6467c34cf7bac9e.jpg
+data/valid/Numan_(325)_jpg.rf.37043ad83dc7c74901c05917a9911ce5.jpg
+data/valid/Numan_(427)_jpg.rf.b6e74220475b6f34562d3637f8d63e82.jpg
+data/valid/Pias (20)_jpg.rf.610a59c4f36e87d2262037b3b6f7af24.jpg
+data/valid/Pias (457)_jpg.rf.aae63069f6415fe5136ae18286e288da.jpg
+data/valid/Numan_(115)_jpg.rf.f8fa5087cde345f9e7a7657f94a4067b.jpg
+data/valid/Pias (59)_jpg.rf.08287a2378506675e3bc8928887cec43.jpg
+data/valid/Pias (244)_jpg.rf.a247f42d66312f555b9c43b0a1ccddeb.jpg
+data/valid/Pias (533)_jpg.rf.dc07aa31fefca5e8360f708d57a746e6.jpg
+data/valid/Pias (1)_jpg.rf.3183d3d57554afd66a2e5c2d18155591.jpg
+data/valid/Pias (309)_jpg.rf.826fb69863201d168e137deae1dc58b0.jpg
+data/valid/Pias (98)_jpg.rf.cd765992c47d31e2d00b4efcbf994130.jpg
+data/valid/Pias (413)_jpg.rf.06dbfe3fa31b58d4f2a504308b31d2fc.jpg
+data/valid/Numan_(366)_jpg.rf.a8020bfd3b23ae54584eccc89225a837.jpg
+data/valid/Pias (159)_jpg.rf.fcfe307914ab3b1c8fe8924ad169fa10.jpg
+data/valid/Numan_(106)_jpg.rf.18d22ac17c45f9e842af6d7a70620669.jpg
+data/valid/Pias (366)_jpg.rf.5cfc52e22f230ac28e1e180ddd6bd08a.jpg
+data/valid/Pias (95)_jpg.rf.cdfa5afe64e3b9605359bb05d15856a2.jpg
+data/valid/Numan_(464)_jpg.rf.3a5df94ff62563d45acf3570b3e45b79.jpg
+data/valid/Pias (503)_jpg.rf.140a08c61e7a0840033e8551ebf46d0b.jpg
+data/valid/Pias (121)_jpg.rf.82a92553026ac3f61c6c34f4a0eca136.jpg
+data/valid/Pias (279)_jpg.rf.a49084c579b0eb42ee417c3776b5c92c.jpg
+data/valid/Pias (422)_jpg.rf.fb7aa3186f4997c3c144ebb41192fc78.jpg
+data/valid/Pias (127)_jpg.rf.ad3d11ac093a690387bbd4476cb7ae6c.jpg
+data/valid/Pias (410)_jpg.rf.a6ba83e1af3bde915e8e28e58fde7ef9.jpg
+data/valid/Pias (450)_jpg.rf.fd4fb9ac10d5f7b5f29c6621994a80f5.jpg
+data/valid/Pias (391)_jpg.rf.4fb8217fefd6174601d279e32a5235e8.jpg
+data/valid/Numan_(146)_jpg.rf.1ca4b35cb7bdafac826a4fed91d7b801.jpg
+data/valid/Pias (141)_jpg.rf.a25b9f4584c1cb0c35d9f3bd92de6c47.jpg
+data/valid/Pias (240)_jpg.rf.1cbf1b560212573a33cc97d00b98f0eb.jpg
+data/valid/Numan_(165)_jpg.rf.7d0439e0fecd8427342e0619f0605d40.jpg
+data/valid/Pias (407)_jpg.rf.34596b26aa34268e2029ffe2c8d6bd3c.jpg
+data/valid/Pias (267)_jpg.rf.ccb32fc91c3c7a9ab14e4e2d3bc7f1e7.jpg
+data/valid/Numan_(59)_jpg.rf.85bfbff596c383bfc83116373025d8a7.jpg
+data/valid/Numan_(421)_jpg.rf.94713c45a5d7663f37d251044400f93f.jpg
+data/valid/Pias (532)_jpg.rf.51586aa20f3b83032a5fd06c475a6e94.jpg
+data/valid/Pias (434)_jpg.rf.983310243f20c730fbe54441c39bd9b4.jpg
+data/valid/Pias (286)_jpg.rf.862e82a2140d7e92acd13e3d7eb23baa.jpg
+data/valid/Pias (17)_jpg.rf.ee672fe3d17edb452947d856443aff47.jpg
+data/valid/Pias (312)_jpg.rf.d1c69329fb46fba49ddb0d82b0e58148.jpg
+data/valid/Pias (374)_jpg.rf.83a33abe0dcee39cd570b0c340e315e8.jpg
+data/valid/Numan_(138)_jpg.rf.1e74b685d938313615cb14c7983d6365.jpg
+data/valid/Numan_(501)_jpg.rf.09288c05124c6680b067b2adc8e8b4cd.jpg
+data/valid/Pias (319)_jpg.rf.23e6d11a677193dabf343758a13edfb4.jpg
+data/valid/Numan_(109)_jpg.rf.d668e675235052b3b10cf75de240610d.jpg
+data/valid/Numan_(273)_jpg.rf.56e74f736ba4faf68f914c1fb71f2bef.jpg
+data/valid/Numan_(50)_jpg.rf.97d04d87d84b48ad094985a5759f3eed.jpg
+data/valid/Pias (494)_jpg.rf.18543b24f7a790199f03d7c8a68c9ea1.jpg
+data/valid/Pias (513)_jpg.rf.a8b423f4f98bc20660871004109a996d.jpg
+data/valid/Pias (189)_jpg.rf.1c32deae7e63c236a447bb14e1608c72.jpg
+data/valid/Pias (242)_jpg.rf.90c27427f99e225fca494b411804c9ef.jpg
+data/valid/Pias (38)_jpg.rf.e16ebec3b8bf10ceed7bf822c76189a2.jpg
+data/valid/Pias (237)_jpg.rf.cc1ef6d640a184a6d9e7fff815dc85a4.jpg
+data/valid/Pias (484)_jpg.rf.bd66f8c495e23e2d3f0b9b7d590bc64a.jpg
+data/valid/Pias (333)_jpg.rf.9e78524bd56e42e9fa614aca58a9589a.jpg
+data/valid/Numan_(51)_jpg.rf.dbde13ce0109301bf73ed7aa23e5bd8b.jpg
+data/valid/Pias (186)_jpg.rf.9c2762a46105bfecbe6b2f887a3d0b3b.jpg
+data/valid/Pias (6)_jpg.rf.6bb119f799a94220c5f35ac80e43b335.jpg
+data/valid/Pias (87)_jpg.rf.ec2ad73f8f6a97b6d8205f582ef44815.jpg
+data/valid/Numan_(221)_jpg.rf.616c221cbce35d374b6230f414d8aa72.jpg
+data/valid/Numan_(410)_jpg.rf.37d2a282017ab8f5e05e99db77251fe2.jpg
+data/valid/Numan_(257)_jpg.rf.6f11ae77ac247f50b943fb73b70c39f1.jpg
+data/valid/Pias (264)_jpg.rf.b9c49863cd445874740c725b7438f6f7.jpg
+data/valid/Pias (43)_jpg.rf.e366e7fbce3ccb39c9c70ac57ad52bf2.jpg
+data/valid/Pias (512)_jpg.rf.3fef56c410d9d91fa232e9eb979081b1.jpg
+data/valid/Numan_(461)_jpg.rf.3370fa08475bd2eff7cb2a38901a55fa.jpg
+data/valid/Pias (150)_jpg.rf.deb7ac0371164be451e2c5cf9c64c9be.jpg
+data/valid/Numan_(281)_jpg.rf.b58e53f7aca89fdcc24441f408d17f6f.jpg
+data/valid/Pias (236)_jpg.rf.ff715b2cbb5c019afbb254ba3715bb3a.jpg
+data/valid/Pias (201)_jpg.rf.58c35d339030755721e41571ec8db3e2.jpg
+data/valid/Numan_(93)_jpg.rf.a352f8e5670d591360492822d64539b7.jpg
+data/valid/Pias (149)_jpg.rf.299b7b64bcea844ecb8421c0c20dd44f.jpg
+data/valid/Numan_(179)_jpg.rf.82621d31eed3db54fc7c806c502957a3.jpg
+data/valid/Pias (477)_jpg.rf.2e88cf211c8499c9d76d47f7889d133c.jpg
+data/valid/Pias (65)_jpg.rf.4ba5048084a0c653069f27e33beec37d.jpg
+data/valid/Numan_(348)_jpg.rf.85c9a111f2b10d1fecc0379ac76abef5.jpg
+data/valid/Numan_(469)_jpg.rf.b548a100fe531e184d7394e113c0531f.jpg
+data/valid/Numan_(203)_jpg.rf.ba214ad61820f62ca6344689fbb92d98.jpg
+data/valid/Pias (373)_jpg.rf.42600d054855f5ed5d3dd5ea2deb26e8.jpg
+data/valid/Numan_(211)_jpg.rf.7db8ad7b167be4dd75f0d4c719a8b133.jpg
+data/valid/Numan_(401)_jpg.rf.7a2cb3b24e8fff62278361b45478d76d.jpg
+data/valid/Pias (170)_jpg.rf.91d2cf0390245ceb3bf2a7edaee838cf.jpg
+data/valid/Pias (19)_jpg.rf.e03da3c7b0bf629c91a6d58c1248bacc.jpg
+data/valid/Pias (362)_jpg.rf.e56a668a2651dd86facb76ba831a52f7.jpg
+data/valid/Pias (274)_jpg.rf.136a910f910115c628d3ae21a452bb39.jpg
+data/valid/Pias (301)_jpg.rf.b8fea084d7da026b08033e9a0b393200.jpg
+data/valid/Pias (129)_jpg.rf.ac0ee1a795f0e431676909079821e415.jpg
+data/valid/Numan_(87)_jpg.rf.28c0b0232d41663cc584348f06db7e3c.jpg
+data/valid/Pias (534)_jpg.rf.daa4b400d7cfc73e145a838c2bbaf911.jpg
+data/valid/Pias (278)_jpg.rf.2d0b86808f25cc9faf3133401ce2faa5.jpg
+data/valid/Numan_(467)_jpg.rf.3304653fec85da3a6a34ce69482dfdc8.jpg
+data/valid/Numan_(395)_jpg.rf.3d28ae7836fb15db59fd1d1ab7da938c.jpg
+data/valid/Pias (275)_jpg.rf.23002a95857c85cdd8d8fd03463970f7.jpg
+data/valid/Numan_(62)_jpg.rf.620f257dd996f0aa1f8ce162abc6e2f1.jpg
+data/valid/Numan_(247)_jpg.rf.c6148b30c36988c7c5d759e1db6c4568.jpg
+data/valid/Numan_(343)_jpg.rf.7a3c2a942dd185fe3803f5e208fc0e01.jpg
+data/valid/Numan_(244)_jpg.rf.9c58317141818cd0768a4b6ce734bd6e.jpg
+data/valid/Pias (272)_jpg.rf.5d7199aa55a83ea683619b73815c0bb4.jpg
+data/valid/Numan_(198)_jpg.rf.a02ecddbb7932c7a3716caa2cd6174f2.jpg
+data/valid/Numan_(413)_jpg.rf.9dd465a7fc7e98e8bc2f35d5de31da4f.jpg
+data/valid/Numan_(322)_jpg.rf.918bb42e23f572a923e67e4cce005181.jpg
+data/valid/Numan_(400)_jpg.rf.862e1a274da786432bbcaada4f25bc97.jpg
+data/valid/Pias (255)_jpg.rf.e718c33bdccac54da61c579778ae9eec.jpg
+data/valid/Pias (492)_jpg.rf.fab2acc2a834dfe85793550b145ce943.jpg
+data/valid/Numan_(173)_jpg.rf.f935005301b34d6e62d3d1ece457afc6.jpg
+data/valid/Pias (296)_jpg.rf.89cf9d0341fb576985baf1bca4d596b9.jpg
+data/valid/Numan_(245)_jpg.rf.1c85710ee42c24828626e8f04c4694a6.jpg
+data/valid/Numan_(405)_jpg.rf.c6c64ae0805b51156aab4a9d20b570fc.jpg
+data/valid/Numan_(313)_jpg.rf.60dae1ebb4c00066141823d850e2bc67.jpg
+data/valid/Pias (315)_jpg.rf.33fce4aea3350c97d2922f1704b1494f.jpg
+data/valid/Pias (310)_jpg.rf.fb1fac99f21fa473b76bd11d8a56c4e9.jpg
+data/valid/Numan_(75)_jpg.rf.a40709f8bfa261d5395f0b310f7e6349.jpg
+data/valid/Numan_(326)_jpg.rf.6283ca25f3e141b942123c4d5e5c7744.jpg
+data/valid/Numan_(304)_JPG.rf.0e70b40818fdd653ae9afeb3cd16eff3.jpg
+data/valid/Numan_(152)_jpg.rf.b81940d31492c401406ee431a9552ee3.jpg
+data/valid/Numan_(196)_jpg.rf.f5725326ae82a00d69ebb03fb60e8e6a.jpg
+data/valid/Pias (507)_jpg.rf.f63be6376ffd17ae2120992843d46af6.jpg
+data/valid/Numan_(494)_jpg.rf.f31e8b2256fa2d58fc9b76443efcc9fd.jpg
+data/valid/Numan_(289)_jpg.rf.1ec01db8b7821221aecebcc4215c67dd.jpg
+data/valid/Pias (289)_jpg.rf.c6bea46c944d90558b876314c855019c.jpg
+data/valid/Numan_(166)_jpg.rf.66c253c738dd6cc1d496d3a10c670c85.jpg
+data/valid/Pias (202)_jpg.rf.ebdd28ed6667fc1c37644ccf610a9674.jpg
+data/valid/Pias (206)_jpg.rf.f75e5464a96cc61d9b6cf33847d9e8ac.jpg
+data/valid/Pias (253)_jpg.rf.c43a9899342d3ee4aecf7a98969c493c.jpg
+data/valid/Pias (250)_jpg.rf.1e9aca466d64ee868c3d4c5ae847df6b.jpg
+data/valid/Numan_(407)_jpg.rf.936756ef2858216470a9794a908158d8.jpg
+data/valid/Pias (120)_jpg.rf.e85bd01665106f46df13a213fec26499.jpg
+data/valid/Numan_(414)_jpg.rf.05d7e7d4fef349771f98ada22241540e.jpg
+data/valid/Numan_(118)_jpg.rf.be1311fdc5c194a3ae6842d801669202.jpg
+data/valid/Numan_(110)_jpg.rf.c7e1149bbadea2c2448707404b6e4397.jpg
+data/valid/Pias (302)_jpg.rf.91264e9c4e0044e90f2188648e43fde5.jpg
+data/valid/Pias (547)_jpg.rf.517344cd1454489389c5176683c292bc.jpg
+data/valid/Pias (409)_jpg.rf.a663a2f90e25e7d91c43dcb83e160e73.jpg
+data/valid/Pias (97)_jpg.rf.df9fd5a3df8c6cdc3aeabebfd90bf7f9.jpg
+data/valid/Pias (390)_jpg.rf.2f8c330df034947ebc623ef183542d0f.jpg
+data/valid/Numan_(230)_jpg.rf.25a25cb638224926fd9a7540a8c0daf4.jpg
+data/valid/Pias (74)_jpg.rf.a4852d16d84a26e3fe12e53a22852431.jpg
+data/valid/Numan_(169)_jpg.rf.56c169d997b524b36ff99a1f9a4043c8.jpg
+data/valid/Pias (328)_jpg.rf.2dd10f8217709f726c07b95db1bdd2d2.jpg
+data/valid/Numan_(263)_jpg.rf.494d0586adbe7bcdf0b3ed1a4009d1f8.jpg
+data/valid/Numan_(153)_jpg.rf.bb826842b5f03de7069f3b3fdc7a164b.jpg
+data/valid/Pias (293)_jpg.rf.77e2ba483b254b3044bfabb084b5d954.jpg
+data/valid/Numan_(382)_jpg.rf.5013e1162e63273de745c7b399d47575.jpg
+data/valid/Numan_(460)_jpg.rf.1ac8b0efe77b78c7de6179c6f357f457.jpg
+data/valid/Numan_(139)_jpg.rf.eb631c8acaf76f320e4d35ca596944a4.jpg
+data/valid/Pias (56)_jpg.rf.ed1f9c6d49219946268abde359787af7.jpg
+data/valid/Pias (118)_jpg.rf.a9c60b8e685148b6addc1fc61a02ad74.jpg
+data/valid/Pias (116)_jpg.rf.e36aeb45117724bc596feda6271e457b.jpg
+data/valid/Pias (135)_jpg.rf.513779d87092f29edcd4954693f3d516.jpg
+data/valid/Pias (9)_jpg.rf.26208542b2a0297d889bdfcd8f91dd06.jpg
+data/valid/Numan_(108)_jpg.rf.2b169dd373461cfcdf4f25d07fd22a08.jpg
+data/valid/Numan_(412)_jpg.rf.3b7c2924c25b671b9f9985418bed1f12.jpg
+data/valid/Numan_(434)_jpg.rf.a464d063e1b5a9e08023bbb932efabe9.jpg
+data/valid/Numan_(356)_jpg.rf.1318122816756bac1a4e6493aa8a2783.jpg
+data/valid/Pias (277)_jpg.rf.4f3a8445f8e82fba473bcfc4674e569f.jpg
+data/valid/Pias (423)_jpg.rf.ae0dcede8eee9aa37d8d2443e12df7fa.jpg
+data/valid/Pias (93)_jpg.rf.f1b7793a4f20c8806604a2bc069a38dc.jpg
+data/valid/Numan_(232)_jpg.rf.1cfba4e27bf6be1f758d93a20b70f830.jpg
+data/valid/Numan_(92)_jpg.rf.41e02f11a50aaf8ab6d8ab216f9d60f9.jpg
+data/valid/Pias (174)_jpg.rf.c6094b48f2fc0cd81b77e372bab37135.jpg
+data/valid/Pias (114)_jpg.rf.9387905ac7372e3c36fb9eb6a977e45b.jpg
+data/valid/Numan_(157)_jpg.rf.d14967ff39f7cf215b550c6b53a84864.jpg
+data/valid/Numan_(440)_jpg.rf.ab5f9624909e1eaa75c87ec1d4826507.jpg
+data/valid/Numan_(321)_jpg.rf.777d93a5cdb4f12558c98d8287b2f738.jpg
+data/valid/Pias (197)_jpg.rf.797930be13c7029edd69fcd3cef91ba3.jpg
+data/valid/Numan_(57)_jpg.rf.1b11199024cd8fe3d120d5578f2eff1c.jpg
+data/valid/Pias (524)_jpg.rf.e18d3e2ee5903ffcb17285dcb17a5fef.jpg
+data/valid/Pias (294)_jpg.rf.368d0481d1b9b953739316ea3a4aa1ee.jpg
+data/valid/Numan_(195)_jpg.rf.97316e9122235acd5739be9c9f80e323.jpg
+data/valid/Numan_(205)_jpg.rf.b50b7486e1de03ce5464fd405f4bfb7a.jpg
+data/valid/Numan_(191)_jpg.rf.4078130ec81f307aa9b89f3c438e9725.jpg
+data/valid/Pias (78)_jpg.rf.1d5c608500f26e6813b9daa4cc2ec16c.jpg
+data/valid/Numan_(306)_JPG.rf.e7b6a4e2c0e1989aaf6b1f1635ea2743.jpg
+data/valid/Pias (326)_jpg.rf.0c9cd86f83a07e4b417038f203cefbed.jpg
+data/valid/Pias (7)_jpg.rf.c6924fcd10aa535c79f9da9528902ff3.jpg
+data/valid/Pias (358)_jpg.rf.75286f00396229aa47e00c125283fa48.jpg
+data/valid/Numan_(398)_jpg.rf.c1e5b6a3726104e4df3f2bc842e7c42e.jpg
+data/valid/Pias (180)_jpg.rf.07f3a79b2b2ba565688994b600cfdc82.jpg
