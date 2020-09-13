@@ -4,6 +4,6 @@ This repository is based on YOLOv3 implementation from [Ultralytics](https://git
 
 Here we simply add all the required configuration files to quickly initiate training and inference. 
 
-Specifically, all the configuration files are targeting dataset for dhaka-ai competition.
+Specifically, all the configuration files are targeting dataset for [dhaka-ai](https://dhaka-ai.com/) competition.
 
-For 
+More details training and inference is presented in this [colab notebool](https://colab.research.google.com/drive/1x2NZUVJtVqmeSFpBO_XNmv2esMrHPGQ7?usp=sharing)
