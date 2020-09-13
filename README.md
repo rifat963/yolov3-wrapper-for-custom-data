@@ -1,4 +1,7 @@
-## Simple YOLOv3 wrapper for custom data 
+## Simple YOLOv3 wrapper for Dhaka-ai challenge 2020
+
+
+![Image](Image.png)
 
 This repository is based on YOLOv3 implementation from [Ultralytics](https://github.com/ultralytics/yolov3)
 
