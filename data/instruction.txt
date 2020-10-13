@@ -1,5 +1,5 @@
 Custom dataset must put in this folder. In the following structure:
-data
+
 -train
 -test
 -valid

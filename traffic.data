@@ -1,4 +1,4 @@
-classes=23
+classes=21
 train=train.txt
 valid=valid.txt
 names=traffic.names
